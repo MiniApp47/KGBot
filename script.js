@@ -156,7 +156,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '100G', price: 400.00 },
                     ]
                 },
-                 {
+                /*  {
                     id: 'PermanentMarker 🖍️',
                     flag: '🇲🇦',
                     name: 'PermanentMarker 🖍️',
@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '50G', price: 220.00 },
                         { weight: '100G', price: 400.00 },
                     ]
-                },
+                }, */
               /*   {
                     id: 'Jaune mousseux 🥵',
                     flag: '🇲🇦',
@@ -360,7 +360,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '50G', price: 800.00 },
                     ]
                 },
-                {
+                /* {
                     id: 'MOTORBREAD',
                     flag: '🇲🇦',
                     name: 'MOTORBREAD 🛵', 
@@ -407,7 +407,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '10G', price: 150.00},
                         { weight: '25G', price: 320.00 },
                     ]
-                },
+                }, */
                 /* {
                     id: 'GAZ MONKEY 🦍⛽️ ⚡️💎',
                     flag: '🇲🇦',
@@ -441,7 +441,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '50G', price: 450.00 },
                     ]
                 }, */
-                {
+                /* {
                     id: 'SPRITZER 🌈🍹',
                     flag: '🇲🇦',
                     name: 'SPRITZER 🌈🍹', 
@@ -488,7 +488,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '10G', price: 150.00},
                         { weight: '25G', price: 320.00 },
                     ]
-                },
+                }, */
                /*  {
                     id: 'STATIC RS11 🍬⛽',
                     flag: '🇲🇦',
@@ -800,7 +800,7 @@ document.addEventListener('DOMContentLoaded', function () {
             image: 'CategWeed.png', // Ton image de catégorie Weed
 
             products: [
-                {
+                /* {
                     id: 'Cherry runtz 🍒',
                     flag: '🇺🇸',
                     name: 'Cherry runtz 🍒',
@@ -817,7 +817,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '25g', price: 220.00 },
                         { weight: '50g', price: 400.00 },
                     ]
-                },
+                }, */
                 {
                     id: 'Pech sherbet 🍨',
                     flag: '🇺🇸',
@@ -843,7 +843,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     farm: '🌾 No Farm 🌾',
                     promoEligible: true,
                     type: 'Weed',
-                    image: 'ProductGL.jpg', 
+                    image: 'productGL.jpg', 
                     images:['ProductGLL.jpg'],
                     video: '',
                     description: '',                    
@@ -925,7 +925,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '50g', price: 400.00 },
                     ]
                 }, 
-                 {
+                /*  {
                     id: '🍇💜 GRAPE SODA 💜🍇',
                     flag: '🇺🇸',
                     name: '🍇💜 GRAPE SODA 💜🍇',
@@ -941,7 +941,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         { weight: '25g', price: 220.00 },
                         { weight: '50g', price: 400.00 },
                     ]
-                }, 
+                }, */ 
                  {
                     id: '🌴🔥 CALI MIAMI 🔥🌴',
                     flag: '🇺🇸',
