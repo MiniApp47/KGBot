@@ -1393,9 +1393,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     video: '',
                     description: '',
                     tarifs: [
-                        { weight: '5G', price: 70.00 },
-                        { weight: '10G', price: 120.00 },
-                        { weight: '25G', price: 250.00 },
+                        { weight: '5G', price: 60.00 },
+                        { weight: '10G', price: 110.00 },
+                        { weight: '25G', price: 200.00 },
                     ]
                 },
                  {
@@ -1739,11 +1739,10 @@ document.addEventListener('DOMContentLoaded', function () {
                     video: '',
                     description: '💨🔥 Une frappe lourde et ultra-gourmande pour les puristes du filtré 🔥💨\n 🥜🍫 120U – Snickers 🍫🥜\n\n ✨ Profil aromatique ✨\n Dès l’ouverture, Snickers dévoile un profil terpénique lourd et complexe 💥🥜. Une vague de caramel fondant envahit instantanément les sens, dominée par la cacahuète grillée 🥜, le chocolat noir 🍫 et le nougat sucré 🍬. En arrière-plan, des notes terreuses et crémeuses rappellent un dessert riche, accompagnées d’un fond kush bien prononcé 🌱✨.\n\n 😮‍💨🥜 Goût\n En bouche, c’est une véritable explosion de saveurs denses 💥🍫. L’attaque est riche et caramélisée ⚡, rapidement équilibrée par une profondeur de fruits à coque rappelant la célèbre barre gourmande 🥜🤤. La fumée est épaisse, propre et particulièrement savoureuse grâce au processus 3X Filtré ☁️✨. La finale laisse une persistance longue et terreuse, avec des notes de caramel salé qui restent agréablement sur le palais 😋.\n\n ⚡🧠 Effets\n Snickers offre une montée puissante et enveloppante 🚀✨.\n\n 😁 Sensation d\'euphorie immédiate\n 🌞 Effet lourd et profondément stimulant\n 🧠 Esprit déconnecté des tensions\n ✨ Sensation de lourdeur agréable\n 😌 Relaxation totale et rapide du corps\n 🌙 Idéal pour s\'écraser dans le canapé après une grosse journée\n\n 🏆🥜 Le verdict\n Snickers s’impose comme un poids lourd pour les amateurs de profils denses, caramélisés et de filtrés premium 🔥🥜. Son bouquet aromatique complexe, sa fumée épaisse et son goût ultra-réconfortant en font une variété qui marque les esprits dès les premières bouffées 💨✨.',
                     tarifs: [
-                        { weight: '5G', price: 50.00 },
-                        { weight: '10G', price: 80.00 },
-                        { weight: '20G', price: 140.00 },
-                        { weight: '50G', price: 250.00 },
-                        { weight: '100G', price: 400.00 },
+                        { weight: '10G', price: 60.00 },
+                        { weight: '25G', price: 130.00 },
+                        { weight: '50G', price: 230.00 },
+                        { weight: '100G', price: 420.00 },
                     ]
                 },
                  {
@@ -2086,8 +2085,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     video: '',
                     description: '',
                     tarifs: [
-                        { weight: '10g', price: 60.00 },
-                        { weight: '20g', price: 100.00 },
+                        { weight: '10g', price: 50.00 },
+                        { weight: '20g', price: 90.00 },
                         { weight: '50g', price: 200.00 },
                         { weight: '100g', price: 330.00 },
                     ]
