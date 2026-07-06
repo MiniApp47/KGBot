@@ -248,6 +248,23 @@ document.addEventListener('DOMContentLoaded', function () {
                     id: 'HONEY (BANANAS x SPRITZER) 🍌🍯',
                     flag: '🇺🇸',
                     name: 'HONEY (BANANAS x SPRITZER) 🍌🍯', 
+                    farm: 'The Pink Farms',
+                    promoEligible: true,
+                    type: 'STATIC',
+                    image: 'ProductHBS.jpg',
+                    video: 'VideoHBS.mp4',
+                    description: '',
+                    tarifs: [
+                        { weight: '3G', price: 50.00 },
+                        { weight: '10G', price: 140.00},
+                        { weight: '25G', price: 250.00 },
+                        { weight: '50G', price: 450.00 },
+                    ]
+                },
+                 {
+                    id: 'HONEY (BANANAS x SPRITZER) 🍌🍯',
+                    flag: '🇺🇸',
+                    name: 'HONEY (BANANAS x SPRITZER) 🍌🍯', 
                     farm: '🌟 By Secret House Smoke Farm 🌟',
                     promoEligible: true,
                     type: 'STATIC',
