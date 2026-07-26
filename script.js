@@ -1594,7 +1594,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         },
-        {
+       /*  {
           id: "Banana Limonade 🍹",
           flag: "🇲🇦",
           name: "Banana Limonade 🍹",
@@ -1611,7 +1611,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
         {
           id: "Pineapple Juice 🍍",
           flag: "🇲🇦",
