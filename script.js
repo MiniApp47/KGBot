@@ -527,7 +527,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 315.0 , oldPrice: 450.0, badge: "-30 ％", },
           ],
         },
-        {
+      /*   {
           id: "HONEY (BANANAS x SPRITZER) 🍌🍯",
           flag: "🇺🇸",
           name: "HONEY (BANANAS x SPRITZER) 🍌🍯",
@@ -544,7 +544,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25G", price: 250.0 },
             { weight: "50G", price: 450.0 },
           ],
-        },
+        }, */
         {
           id: "⚡🍇❄️ FORBIDDEN",
           flag: "🇲🇦",
@@ -1089,6 +1089,23 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategWeed.png", // Ton image de catégorie Weed
 
       products: [
+        {
+                    id: '🍰⛽ Cali Gascake ⛽🍰',
+                    flag: '🇺🇸',
+                    name: '🍰⛽ Cali Gascake ⛽🍰',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductCG.png', 
+                    video: 'VideoCG.mp4',
+                    description: '💎 Une variété très appréciée des amateurs de profils gassy/cake, mélangeant des notes de carburant, de vanille crémeuse et de pâtisserie sucrée. Les génétiques les plus souvent associées à Gas Cake proviennent du croisement High Octane × Jungle Cake, ce qui lui donne un profil puissant et très résineux.  \n\n ✨ Effets généralement recherchés :\n 😌 Relaxation profonde du corps\n 😊 Sensation de bien-être et d’euphorie\n 🧠 Esprit détendu sans être complètement assommé au départ\n 🍕 Ouverture de l’appétit\n 😴 Peut devenir très relaxante en fin de session  \n\n 👃 Profil aromatique :\n ⛽ Diesel / essence prononcé\n 🍰 Vanille crémeuse\n 🍬 Notes pâtissières et sucrées\n 🌿 Fond terreux et légèrement épicé  \n\n 🔥 Pour les connaisseurs :\n La Cali Gascake est souvent recherchée pour son équilibre entre la gourmandise des variétés « Cake » et la puissance terpènique des lignées « Gas ». Elle offre généralement une fumée riche, grasse et très parfumée, avec une détente marquée qui plaît aux amateurs de fleurs ou de hash haut de gamme.',                    
+                    tarifs: [
+            { weight: "5g", price: 50.0 },
+            { weight: "10g", price: 90.0 },
+            { weight: "25g", price: 200.0 },
+            { weight: "50g", price: 350.0 },
+                    ]
+                }, 
         {
           id: "Frosted cherry Cookie",
           flag: "🇺🇸",
