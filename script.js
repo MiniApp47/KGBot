@@ -1074,7 +1074,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategWeed.png", // Ton image de catégorie Weed
 
       products: [
-        {
+        /* {
                     id: '🍰⛽ Cali Gascake ⛽🍰',
                     flag: '🇺🇸',
                     name: '🍰⛽ Cali Gascake ⛽🍰',
@@ -1090,7 +1090,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25g", price: 200.0 },
             { weight: "50g", price: 350.0 },
                     ]
-                }, 
+                },  */
         {
           id: "Frosted cherry Cookie",
           flag: "🇺🇸",
