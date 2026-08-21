@@ -148,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function () {
               price: 350.0            },
                     ]
                 },
-        {
+       /*  {
           id: "White truffle 🍄",
           flag: "🇺🇸",
           name: "White truffle 🍄",
@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 200.0 },
             { weight: "100G", price: 350.0 },
           ],
-        },
+        }, */
         {
           id: "Pink Lemonade 🥤",
           flag: "🇺🇸",
@@ -1254,7 +1254,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50g", price: 350.0 },
           ],
         },
-        {
+       /*  {
           id: "🌴💣 SUPER BOMBE 💣🌴",
           flag: "🇺🇸",
           name: "🌴💣 SUPER BOMBE 💣🌴",
@@ -1271,7 +1271,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25g", price: 200.0 },
             { weight: "50g", price: 350.0 },
           ],
-        },
+        }, */
         /*   {
                     id: '🍨🌿 GELATO #33 🌿🍨',
                     flag: '🇺🇸',
