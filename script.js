@@ -1235,7 +1235,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50g", price: 350.0 },
           ],
         },
-        {
+        /* {
           id: "Cherry runtz 🍒",
           flag: "🇺🇸",
           name: "Cherry runtz 🍒",
@@ -1253,7 +1253,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25g", price: 200.0 },
             { weight: "50g", price: 350.0 },
           ],
-        },
+        }, */
        /*  {
           id: "🌴💣 SUPER BOMBE 💣🌴",
           flag: "🇺🇸",
