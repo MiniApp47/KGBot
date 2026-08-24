@@ -548,7 +548,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 450.0 },
           ],
         },
-        {
+       /*  {
           id: "🍬🍓❄️ CANDY FRUIT",
           flag: "🇲🇦",
           name: "🍬🍓❄️ CANDY FRUIT",
@@ -565,7 +565,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25G", price: 350.0 },
             { weight: "50G", price: 650.0 },
           ],
-        },
+        }, */
        /*  {
           id: "🍉❄️ WATERMELON",
           flag: "🇲🇦",
@@ -1864,7 +1864,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         },
-        {
+        /* {
           id: "Peach Tsunami 🌊",
           flag: "🇲🇦",
           name: "Peach Tsunami 🌊",
@@ -1881,7 +1881,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
         {
           id: "Tropicana Glue 🍼",
           flag: "🇲🇦",
