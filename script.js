@@ -548,7 +548,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 450.0 },
           ],
         }, */
-        {
+       /*  {
           id: "⚡🍇❄️ FORBIDDEN",
           flag: "🇲🇦",
           name: "⚡🍇❄️ FORBIDDEN",
@@ -565,7 +565,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25G", price: 250.0 },
             { weight: "50G", price: 450.0 },
           ],
-        },
+        }, */
        /*  {
           id: "🍬🍓❄️ CANDY FRUIT",
           flag: "🇲🇦",
@@ -1738,24 +1738,24 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "Categ3X.png", // Ton image de catégorie Weed
 
       products: [
-       /*  {
-          id: "GMO",
+        {
+          id: "DO-SI-DOS",
           flag: "🇲🇦",
-          name: "GMO 🎗",
+          name: "DO-SI-DOS 🍟",
           farm: "🌾 No Farm 🌾",
           promoEligible: true,
           type: "3xFiltre",
-          image: "ProductGMOO.jpg",
-          video: "",
+          image: "ProductDOS.png",
+          video: "VideoDOS.mp4",
           description:
-              "",
+                "🍟🍫 DO-SI-DOS — 3X FILTRE PREMIUM 🍫🍟\n\nUne sélection 3X Filtre au profil gourmand, profond et bien travaillé. DO-SI-DOS se distingue par une belle rondeur aromatique, une texture propre et un mélange de notes sucrées, terreuses et légèrement crémeuses. 🇲🇦🔥\n\n👃 Profil aromatique :\n🍪 Notes biscuitées et gourmandes\n🌰 Touches de fruits à coque\n🍯 Fond doux et légèrement sucré\n🌿 Notes terreuses propres\n🔥 Finition résineuse élégante\n\n👅 Goût :\nEn bouche, DO-SI-DOS développe une attaque douce et gourmande, avec des notes biscuitées et une légère touche crémeuse. Le profil devient ensuite plus profond, avec une finale terreuse et résineuse qui reste bien présente. 😮‍💨🍟\n\n✨ Texture & qualité :\n💎 3X Filtre soigneusement sélectionné\n🤲 Texture souple et agréable à travailler\n🌈 Arômes bien conservés\n☁️ Fumée dense et parfumée\n🔥 Profil propre, rond et régulier\n\n🏆 Le verdict :\nUne 3X Filtre gourmande et équilibrée, parfaite pour les amateurs de profils doux, biscuités et résineux. DO-SI-DOS combine rondeur, caractère et finition premium dans une sélection très propre. 🍟🍫🔥",
           tarifs: [
             { weight: "10G", price: 60.0 },
             { weight: "25G", price: 130.0 },
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        }, */
+        },
         {
           id: "GMO",
           flag: "🇲🇦",
