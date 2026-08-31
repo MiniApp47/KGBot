@@ -494,6 +494,23 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategDouble.png", // Ton image de catégorie Weed
 
       products: [
+         {
+          id: "Plasma static",
+          flag: "🇺🇸",
+          name: "🔮 Plasma static 🔮",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "STATIC",
+          image: "ProductPPS.jpg",
+          video: "VideoPPS.mp4",
+          description:   "🔮🧤 PLASMA STATIC — STATIC SIFT PREMIUM 🧤🔮\n\nUne sélection Static au profil profond, brillant et très aromatique. Plasma Static se distingue par son caractère résineux, sa texture travaillée et une identité premium pensée pour les amateurs de produits propres et puissants en arômes. 🇺🇸🔥\n\n👃 Profil aromatique :\n🔮 Notes résineuses intenses\n🍬 Touche sucrée légèrement candy\n⛽ Fond gassy bien présent\n🌿 Nuances végétales propres\n🔥 Finition profonde et persistante\n\n👅 Goût :\nEn bouche, Plasma Static développe une attaque riche et aromatique, avec un mélange de notes sucrées, gazeuses et résineuses. La dégustation reste longue, propre et bien équilibrée, avec une finale marquée qui donne une vraie impression premium. 😮‍💨🔮\n\n🧤 Texture & qualité :\n💎 Static Sift soigneusement travaillé\n🤲 Texture premium agréable à manipuler\n🌈 Belle conservation des terpènes\n☁️ Fumée dense et savoureuse\n🔥 Profil propre, intense et régulier\n\n🏆 Le verdict :\nUne Static élégante et pleine de caractère, idéale pour ceux qui aiment les profils résineux, gassy et bien travaillés. Plasma Static combine intensité, propreté et finition haut de gamme dans une sélection très solide. 🔮🧤🔥",
+          tarifs: [
+            { weight: "3G", price: 50.0 },
+            { weight: "10G", price: 140.0 },
+            { weight: "25G", price: 250.0 },
+            { weight: "50G", price: 450.0 },
+          ],
+        },
         {
           id: "La Bomba x Spriter 💣",
           flag: "🇺🇸",
@@ -1380,8 +1397,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     farm: '🌾 No Farm 🌾',
                     promoEligible: true,
                     type: 'FROZEN',
-                    image: 'ProductOL1.png', // ⚠️ A changer
-                    videos: ['VideoOL1.mp4','VideoOL2.mp4'],
+          image: "ProductOLL.png",
+          video: "VideoOL.mp4",
                     description:
                           "🫒🍯 OLIVE — FROZEN PREMIUM 🍯🫒\n\nUne sélection Frozen originale et gourmande, pensée pour les amateurs de résines riches, fondantes et pleines de caractère. Olive se distingue par son format atypique, sa texture travaillée et son profil aromatique profond, mêlant douceur sucrée, notes résineuses et belle rondeur en bouche. 🇲🇦🔥\n\n👃 Profil aromatique :\n🍫 Notes chocolatées et gourmandes\n🍯 Douceur miellée\n🌰 Touches de fruits à coque\n🌿 Fond végétal et résineux\n🔥 Légère finition terreuse élégante\n\n👅 Goût :\nEn bouche, Olive développe une attaque douce et gourmande, portée par des notes chocolatées et une rondeur sucrée très agréable. Le profil évolue ensuite vers quelque chose de plus résineux et légèrement terreux, avec une finale propre, riche et persistante. 😮‍💨🫒\n\n❄️ Texture & qualité :\n💎 Frozen soigneusement travaillé\n🤲 Texture souple, dense et agréable à manipuler\n🌈 Bonne conservation des arômes\n☁️ Fumée épaisse et savoureuse\n🔥 Profil équilibré et régulier\n\n🏆 Le verdict :\nUne Frozen gourmande et pleine de caractère, idéale pour ceux qui recherchent une résine originale, fondante et bien travaillée. Olive combine douceur, profondeur aromatique et vraie identité premium dans un format qui ne passe pas inaperçu. 🫒🍯🍫🔥",
                     tarifs: [
@@ -1738,6 +1755,31 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "Categ3X.png", // Ton image de catégorie Weed
 
       products: [
+         {
+          id: "FILTRED ⚡",
+          flag: "🇲🇦",
+          name: "FILTRED ⚡",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductF.png",
+          video: "VideoF.mov",
+          description:
+              "⚡❄️ FILTRED — SÉLECTION PREMIUM ❄️⚡\n\nUne sélection filtrée au profil gourmand, propre et bien travaillé. FILTRED se distingue par une texture souple, une belle intensité aromatique et plusieurs saveurs bien marquées pour varier les plaisirs. 🇲🇦🔥\n\n👃 Saveurs disponibles :\n🍮 Super Caramelo : notes caramel, crème brûlée et douceur sucrée\n🍫 Nutella : profil cacao, noisette et rondeur gourmande\n🌸 Fanta : touche fruitée, sucrée et légèrement pétillante\n\n👅 Goût :\nEn bouche, FILTRED développe une attaque douce et aromatique, avec une belle rondeur selon la saveur choisie. Le profil reste propre, agréable et bien équilibré, avec une finale gourmande qui reste présente. 😮‍💨⚡\n\n✨ Texture & qualité :\n💎 Filtré soigneusement sélectionné\n🤲 Texture souple et facile à travailler\n🌈 Saveurs bien distinctes\n☁️ Fumée douce et parfumée\n🔥 Profil propre, régulier et gourmand\n\n🏆 Le verdict :\nUne sélection filtrée efficace et gourmande, parfaite pour ceux qui aiment choisir entre plusieurs profils aromatiques. FILTRED combine qualité, variété et finition propre dans une gamme simple et bien maîtrisée. ⚡❄️🔥",
+          variantTitle: "Saveurs Filtrer ❄️ :",
+          jars: [
+            { name: "Super Caramelo", emoji: "🍮", colorClass: "style-brown" },
+            { name: "Nutella", emoji: "🍫", colorClass: "style-red" },
+            { name: "Fanta", emoji: "🌸", colorClass: "style-yellow" },
+          ],
+          tarifs: [
+            { weight: "5G", price: 50.0 },
+            { weight: "10G", price: 80.0 },
+            { weight: "20G", price: 140.0 },
+            { weight: "50G", price: 250.0 },
+            { weight: "100G", price: 400.0 },
+          ],
+        },
         {
           id: "DO-SI-DOS",
           flag: "🇲🇦",
