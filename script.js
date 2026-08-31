@@ -1405,7 +1405,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '1 Olive', price: 90.00 },
                     ]
                 },
-        {
+       /*  {
           id: "G.M.O 🧬",
           flag: "🇺🇸",
           name: "G.M.O 🧬",
@@ -1423,7 +1423,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 350.0 },
             { weight: "100G", price: 680.0 },
           ],
-        },
+        }, */
        /*  {
           id: "L'Etoile ✨",
           flag: "🇺🇸",
@@ -1798,7 +1798,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         },
-        {
+       /*  {
           id: "GMO",
           flag: "🇲🇦",
           name: "GMO 🎗",
@@ -1815,7 +1815,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
         {
           id: "Weeding Cake",
           flag: "🇲🇦",
