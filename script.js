@@ -515,7 +515,7 @@ document.addEventListener("DOMContentLoaded", function () {
           id: "La Bomba x Spriter 💣",
           flag: "🇺🇸",
           name: "La Bomba x Spriter 💣",
-          farm: '🌾 No Farm 🌾',
+          farm: "🌟 By Secret House Smoke Farm 🌟",
           promoEligible: true,
           type: "STATIC",
           image: "ProductKBS.jpg",
@@ -1780,7 +1780,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 400.0 },
           ],
         },
-        {
+       /*  {
           id: "DO-SI-DOS",
           flag: "🇲🇦",
           name: "DO-SI-DOS 🍟",
@@ -1797,7 +1797,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
        /*  {
           id: "GMO",
           flag: "🇲🇦",
