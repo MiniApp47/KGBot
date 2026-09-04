@@ -494,6 +494,24 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategDouble.png", // Ton image de catégorie Weed
 
       products: [
+        {
+                    id: '🌟 CALYPSO',
+                    flag: '🇲🇦',
+                    name: '🌟 CALYPSO',
+                    farm: 'MOZART FARM 🎹',
+                    promoEligible: true,
+                    type: 'STATIC',
+                    image: 'ProductMZ.png', // ⚠️ A changer
+                    video: 'VideoMZ.mov',
+                    description: '🔥 Description\n Le static Calypso signé MOZART FARM, c’est clairement du très haut niveau — une extraction propre, raffinée, où chaque détail est maîtrisé. On est sur un produit ultra clean, avec une texture sablonneuse fine, presque soyeuse, qui témoigne d’un tri précis et d’une qualité de résine exceptionnelle.\n\n 👃 Arômes & Saveurs\n Calypso, ça part sur un profil exotique et lumineux : des notes fruitées tropicales bien fraîches, mélangées à une touche sucrée presque creamy, avec derrière un léger fond gazeux qui vient équilibrer le tout. À la chauffe, ça développe encore plus — c’est riche, doux, et surtout hyper savoureux, sans agressivité.\n\n 👀 Aspect\n Couleur claire à dorée, homogène, avec cette texture “static” bien sèche mais collante juste comme il faut. Ça s’effrite parfaitement, signe d’une extraction premium et bien travaillée.\n\n 😮‍💨 Effet\n Un high propre et progressif : ça démarre avec une montée cérébrale légère, euphorique, puis ça pose tranquillement le corps sans t’écraser. Idéal pour rester fonctionnel tout en profitant d’un vrai moment de détente qualitative.\n\n 💎 Conclusion\n Le Calypso en static de chez MOZART FARM, c’est un produit d’esthète — goût précis, effet maîtrisé, et finition premium. Clairement une pièce de collection pour ceux qui cherchent du clean et du goût au-dessus de la moyenne.',
+                    tarifs: [
+                        { weight: '5G', price: 70.00 },
+                        { weight: '10G', price: 130.00},
+                        { weight: '25G', price: 300.00 },
+                        { weight: '50G', price: 450.00},
+                        { weight: '100G', price: 800.00}
+                    ]
+                },
          {
           id: "Plasma static",
           flag: "🇺🇸",
@@ -1755,6 +1773,24 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "Categ3X.png", // Ton image de catégorie Weed
 
       products: [
+         {
+          id: "Mentos",
+          flag: "🇲🇦",
+          name: "Mentos 🍬",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductMS.png",
+          video: "VideoMS.mov",
+          description:
+                "",
+          tarifs: [
+            { weight: "10G", price: 60.0 },
+            { weight: "25G", price: 130.0 },
+            { weight: "50G", price: 230.0 },
+            { weight: "100G", price: 420.0 },
+          ],
+        },
          {
           id: "FILTRED ⚡",
           flag: "🇲🇦",
