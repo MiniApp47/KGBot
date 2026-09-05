@@ -120,6 +120,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     promoEligible: true,
                     type: 'JauneUsa',
                     image: 'ProductPap.jpg', 
+                                        video: "VideoMS.mov",
+
                     description: '👹🥭 MONSTER CALI-MOUSSE — PAPAYA 🥭👹\n\nUne mousse jaune au profil tropical, fruité et gourmand, inspirée des saveurs exotiques de la papaye bien mûre. Papaya développe une identité douce, sucrée et légèrement crémeuse, parfaite pour les amateurs de profils fruités et modernes. 🇺🇸🔥\n\n👃 Profil aromatique :\n🥭 Papaye mûre et fruits tropicaux\n🍑 Notes de pêche et fruits jaunes\n🍬 Douceur candy légère\n🍦 Fond crémeux et rond\n🌿 Petite touche végétale propre\n\n👅 Goût :\nEn bouche, Papaya offre une attaque très fruitée, avec des notes tropicales sucrées et une rondeur crémeuse agréable. La dégustation reste douce, parfumée et équilibrée, avec une finale exotique qui reste bien présente. 😮‍💨🥭\n\n💛 Texture & qualité :\n☁️ Mousseuse et souple\n🤲 Facile à travailler\n✨ Arômes fruités bien marqués\n🔥 Fumée douce et parfumée\n💎 Sélection Monster Cali-Mousse\n\n🏆 Le verdict :\nPapaya est une Cali-Mousse gourmande et exotique, idéale pour ceux qui aiment les profils fruités, sucrés et tropicaux. Une sélection douce, parfumée et très agréable à découvrir. 👹🥭🔥',
                     tarifs: [
                         { weight: "9G", price: 50.0 },
@@ -138,6 +140,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     promoEligible: true,
                     type: 'JauneUsa',
                     image: 'ProductRun.jpg', 
+                                        video: "VideoMS.mov",
+
                     description: '👹🍁 MONSTER CALI-MOUSSE — RUNTZ 🍁👹\n\nUne mousse jaune inspirée d’une des génétiques les plus connues pour son profil candy, fruité et crémeux. Runtz se distingue par une odeur sucrée très reconnaissable, avec une belle rondeur aromatique et une identité typiquement Cali. 🇺🇸🔥\n\n👃 Profil aromatique :\n🍬 Bonbon sucré et candy\n🍇 Fruits rouges et raisin doux\n🍦 Crème vanillée légère\n🌸 Petite touche florale\n⛽ Fond gazeux discret\n\n👅 Goût :\nEn bouche, Runtz développe une attaque douce et sucrée, avec des saveurs fruitées très gourmandes. Le côté crémeux arrive ensuite pour arrondir le profil, avant une finition légèrement gassy qui apporte du caractère sans casser la douceur. 😮‍💨🍬\n\n💛 Texture & qualité :\n☁️ Mousseuse et homogène\n🤲 Souple et facile à manipuler\n✨ Profil candy très expressif\n🔥 Fumée douce et aromatique\n💎 Finition premium Monster Cali-Mousse\n\n🏆 Le verdict :\nRuntz est une valeur sûre pour les amateurs de profils candy, fruités et crémeux. Une Cali-Mousse douce, gourmande et bien équilibrée, avec une vraie identité moderne. 👹🍁🍬🔥',
                     tarifs: [
                        { weight: "9G", price: 50.0 },
@@ -264,6 +268,8 @@ document.addEventListener("DOMContentLoaded", function () {
           promoEligible: true,
           type: "JauneUsa",
           image: "ProductGel.jpg",
+                              video: "VideoMS.mov",
+
           description:
             "👹🍦 MONSTER CALI-MOUSSE — GELATO 🍦👹\n\n Une mousse jaune ultra gourmande qui met en avant tout le caractère crémeux et fruité de la célèbre Gelato. Dès l’ouverture, elle dévoile un parfum riche, sucré et moderne, avec une vraie identité Cali. 🇺🇸🔥\n\n 👃 Profil aromatique :\n 🍦 Crème glacée et vanille douce\n 🍓 Fruits rouges sucrés\n 🍊 Agrumes légèrement acidulés\n 🍬 Notes de bonbon\n ⛽ Fond gazeux discret\n\n 👅 Goût :\n En bouche, l’attaque est douce et crémeuse, accompagnée de saveurs fruitées rappelant les fruits rouges et les agrumes sucrés. La finale devient légèrement gazeuse et laisse un arrière-goût gourmand façon dessert. 😮‍💨🍦\n\n 💛 Texture :\n ☁️ Mousseuse et aérée\n 🤲 Facile à travailler\n ✨ Parfum intense dès l’ouverture\n 🔥 Combustion régulière\n\n 🏆 Le verdict :\n Une Cali-Mousse gourmande et équilibrée, idéale pour les amateurs de profils crémeux, fruités et légèrement gassy. Une valeur sûre signée Monster Cali-Mousse. 👹🍦🔥",
           tarifs: [
@@ -284,6 +290,8 @@ document.addEventListener("DOMContentLoaded", function () {
           promoEligible: true,
           type: "JauneUsa",
           image: "ProductCP.jpg",
+                              video: "VideoMS.mov",
+
           description:
             "👹🍒 MONSTER CALI-MOUSSE — CHERRY PIE 🥧👹\n\n Une mousse jaune au profil dessert intense, dominée par la cerise sucrée et les notes pâtissières. Cherry Pie mélange gourmandise fruitée, douceur crémeuse et petite touche gazeuse pour une identité riche et reconnaissable. 🇺🇸🔥\n\n 👃 Profil aromatique :\n 🍒 Cerise mûre et fruits rouges\n 🥧 Pâte sucrée et biscuit\n 🍦 Crème douce et vanillée\n 🌿 Légère note terreuse\n ⛽ Fond gazeux subtil\n\n 👅 Goût :\n L’attaque rappelle une tarte à la cerise avec une belle douceur fruitée. Elle évolue ensuite vers des notes de pâte sucrée, de crème et de vanille, avant une finition légèrement terreuse et gassy qui reste longtemps en bouche. 😮‍💨🍒\n\n 💛 Texture :\n ☁️ Mousseuse et souple\n 🤲 Facile à effriter\n ✨ Riche en arômes\n 🔥 Fumée dense et savoureuse\n\n 🏆 Le verdict :\n Une Cali-Mousse très gourmande, pensée pour les amateurs de cerise, de profils pâtissiers et de saveurs dessert. Cherry Pie porte parfaitement la signature Monster Cali-Mousse. 👹🍒🥧🔥",
           tarifs: [
@@ -304,6 +312,8 @@ document.addEventListener("DOMContentLoaded", function () {
           promoEligible: true,
           type: "JauneUsa",
           image: "ProductTC.jpg",
+                              video: "VideoMS.mov",
+
           description:
             "👹🍊 MONSTER CALI-MOUSSE — TROPICANA CHERRY 🍒👹\n\n Une mousse jaune fruitée et explosive qui combine la douceur de la cerise avec la fraîcheur intense des agrumes. Tropicana Cherry développe un profil coloré, sucré et acidulé, parfaitement adapté aux amateurs de saveurs modernes. 🇺🇸🔥\n\n 👃 Profil aromatique :\n 🍒 Cerise sucrée et fruits rouges\n 🍊 Orange fraîche et zestée\n 🍋 Agrumes acidulés\n 🍬 Bonbon fruité\n 🌸 Petite touche florale\n\n 👅 Goût :\n En bouche, une vague de cerise et d’orange sucrée arrive dès la première bouffée. Les agrumes apportent ensuite une fraîcheur légèrement acidulée, tandis qu’une douceur candy et florale équilibre parfaitement l’ensemble. 😮‍💨🍊\n\n 💛 Texture :\n ☁️ Mousseuse et légère\n ✨ Profil aromatique très expressif\n 🤲 Facile à travailler\n 🔥 Fumée douce et parfumée\n\n 🏆 Le verdict :\n Une Cali-Mousse vive, fruitée et rafraîchissante, avec un équilibre parfait entre cerise sucrée et agrumes pétillants. Une sélection pleine de caractère signée Monster Cali-Mousse. 👹🍒🍊🔥",
           tarifs: [
@@ -324,6 +334,8 @@ document.addEventListener("DOMContentLoaded", function () {
           promoEligible: true,
           type: "JauneUsa",
           image: "ProductPB.jpg",
+                              video: "VideoMS.mov",
+
           description:
             "👹🥜 MONSTER CALI-MOUSSE — PEANUT BUTTER 🥜👹\n\n Une mousse jaune au profil gourmand et original, inspirée des saveurs riches du beurre de cacahuète. Elle mélange des notes crémeuses, grillées et légèrement salées avec un fond terreux et gazeux typique des grosses sélections US. 🇺🇸🔥\n\n 👃 Profil aromatique :\n 🥜 Cacahuète grillée\n 🧈 Beurre crémeux\n 🍪 Biscuit et pâte sucrée\n 🌿 Fond terreux\n ⛽ Légère touche de gaz\n\n 👅 Goût :\n L’attaque est ronde et crémeuse, avec une saveur de cacahuète grillée et de biscuit. Elle évolue progressivement vers des notes plus terreuses et légèrement gazeuses, laissant une finale riche et persistante sur le palais. 😮‍💨🥜\n\n 💛 Texture :\n ☁️ Mousseuse et souple\n 🤲 Facile à travailler\n ✨ Profil gourmand très marqué\n 🔥 Fumée épaisse et savoureuse\n\n 🏆 Le verdict :\n Une Cali-Mousse différente des profils fruités classiques, destinée aux amateurs de saveurs crémeuses, grillées et gassy. Une sélection originale et pleine de caractère. 👹🥜🧈🔥",
           tarifs: [
@@ -344,6 +356,8 @@ document.addEventListener("DOMContentLoaded", function () {
           promoEligible: true,
           type: "JauneUsa",
           image: "ProductR1.jpg",
+                              video: "VideoMS.mov",
+
           description:
             "👹🏎️ MONSTER CALI-MOUSSE — RS 11 🏎️👹\n\n Une mousse jaune inspirée de la célèbre RS11, connue pour son profil candy, fruité et crémeux accompagné d’une belle touche gazeuse. Une sélection moderne, riche en arômes et immédiatement reconnaissable. 🇺🇸🔥\n\n 👃 Profil aromatique :\n 🍬 Bonbon fruité\n 🍓 Fruits rouges et baies\n 🍦 Crème vanillée\n 🌸 Notes florales légères\n ⛽ Fond gazeux et terreux\n\n 👅 Goût :\n En bouche, RS11 commence par une douceur candy très marquée, accompagnée de fruits rouges sucrés. Des notes crémeuses et florales apparaissent ensuite, avant une finale gassy plus profonde qui apporte du relief et une belle longueur en bouche. 😮‍💨🍬\n\n 💛 Texture :\n ☁️ Mousseuse et aérée\n 🤲 Souple et facile à effriter\n ✨ Terpènes riches et expressifs\n 🔥 Fumée dense et parfumée\n\n 🏆 Le verdict :\n Une Cali-Mousse premium au profil candy-gas parfaitement équilibré. RS11 conviendra aux amateurs de saveurs fruitées, crémeuses et puissantes, avec une vraie identité West Coast. 👹🏎️🍬🔥",
           tarifs: [
@@ -1838,7 +1852,7 @@ document.addEventListener("DOMContentLoaded", function () {
           promoEligible: true,
           type: "3xFiltre",
           image: "ProductMS.png",
-          video: "VideoMS.mov",
+          video: "VideoMSS.mov",
           description:
                 "",
           tarifs: [
@@ -1909,7 +1923,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         }, */
-        {
+       /*  {
           id: "Weeding Cake",
           flag: "🇲🇦",
           name: "Weeding Cake 🎂",
@@ -1926,7 +1940,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
         {
           id: "Cereal Milk",
           flag: "🇲🇦",
