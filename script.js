@@ -1432,7 +1432,7 @@ document.addEventListener("DOMContentLoaded", function () {
           image: "ProductYG.png",
           video: "VideoYG.mov",
           description:
-            "",
+              "👑⛽ YELLOWGAZ — CALI PREMIUM ⛽👑\n\nUne sélection au profil jaune, crémeux et gassy, pensée pour les amateurs de saveurs riches et modernes. YellowGaz se distingue par une belle rondeur aromatique, une odeur marquée et une finition propre qui lui donne une vraie identité premium. 🇺🇸🔥\n\n👃 Profil aromatique :\n⛽ Notes gazeuses bien présentes\n🍯 Fond doux et légèrement sucré\n🍦 Rondeur crémeuse\n🍋 Petite touche citronnée\n🌿 Finition végétale propre\n\n👅 Goût :\nEn bouche, YellowGaz développe une attaque douce et crémeuse, rapidement accompagnée par une note gassy plus marquée. Le profil reste rond, savoureux et long en bouche, avec une finale propre et légèrement sucrée. 😮‍💨👑\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n🔥 Profil jaune/gaz bien équilibré\n☁️ Fumée dense et agréable\n✨ Arômes propres et expressifs\n👑 Belle finition haut de gamme\n\n🏆 Le verdict :\nUne valeur sûre pour ceux qui aiment les profils crémeux, jaunes et gassy. YellowGaz combine douceur, puissance aromatique et vraie finition premium dans une sélection très propre. 👑⛽🔥",
           tarifs: [
             { weight: "5G", price: 50.0 },
             { weight: "10G", price: 90.0 },
@@ -1451,7 +1451,13 @@ document.addEventListener("DOMContentLoaded", function () {
           image: "ProductFro.png",
           video: "VideoFro.mov",
           description:
-            "Strain dispo : Mimosa / Icc x lcg",
+              "🧊❄️ FROZEN — SÉLECTION PREMIUM ❄️🧊\n\nUne sélection Frozen au profil frais, gourmand et bien travaillé. Cette gamme met en avant deux strains au caractère différent, avec une belle richesse aromatique et une texture soignée pour les amateurs de produits propres et expressifs. 🇺🇸🔥\n\n👃 Strains disponibles :\n🥵 MIMOSA : profil agrumes, orange sucrée, fraîcheur fruitée et petite touche acidulée\n🍑🍯 ICC X LCG : mélange crémeux, fruité et dessert, avec des notes citronnées, cherry et douceur sucrée\n\n👅 Goût :\nEn bouche, Frozen développe une dégustation fraîche et aromatique. MIMOSA apporte un côté fruité, vif et citronné, tandis que ICC X LCG donne une rondeur plus crémeuse, sucrée et gourmande. Le profil reste propre, agréable et bien équilibré. 😮‍💨🧊\n\n❄️ Texture & qualité :\n💎 Sélection premium bien travaillée\n🤲 Texture propre et agréable\n🌈 Deux profils aromatiques différents\n☁️ Fumée douce et parfumée\n🔥 Belle intensité en bouche\n\n🏆 Le verdict :\nUne sélection Frozen polyvalente et gourmande, parfaite pour ceux qui veulent choisir entre fraîcheur fruitée et profil dessert crémeux. Une gamme propre, aromatique et efficace. 🧊❄️🔥",
+              // 👇 NOUVELLE STRUCTURE
+                         variantTitle: 'Choisis ta strain 🥣 :',
+                         jars: [
+                             { name: 'MIMOSA', emoji: '🥵', colorClass: 'style-passion' },
+                             { name: 'ICC X LCG', emoji: '🍑🍯', colorClass: 'style-orange' }
+                         ],
           tarifs: [
             { weight: "5G", price: 50.0 },
             { weight: "10G", price: 90.0 },
@@ -1854,7 +1860,7 @@ document.addEventListener("DOMContentLoaded", function () {
           image: "ProductMS.png",
           video: "VideoMSS.mov",
           description:
-                "",
+                  "🍬🍫 MENTOS — 3X FILTRE PREMIUM 🍫🍬\n\nUne sélection 3X Filtre au profil frais, sucré et gourmand. Mentos se distingue par une belle douceur aromatique, une texture propre et une identité candy/fraîche qui change des profils classiques. 🇲🇦🔥\n\n👃 Profil aromatique :\n🍬 Notes bonbon sucrées\n🌬️ Fraîcheur légère type mentholée\n🍯 Fond doux et rond\n🌿 Petite touche végétale propre\n🔥 Finition résineuse élégante\n\n👅 Goût :\nEn bouche, Mentos développe une attaque douce et fraîche, avec des notes candy bien présentes et une légère rondeur sucrée. La dégustation reste propre, agréable et équilibrée, avec une finale fraîche et gourmande. 😮‍💨🍬\n\n✨ Texture & qualité :\n💎 3X Filtre soigneusement travaillé\n🤲 Texture souple et agréable\n🌈 Arômes frais et sucrés\n☁️ Fumée douce et parfumée\n🔥 Profil propre et régulier\n\n🏆 Le verdict :\nUne 3X Filtre originale et gourmande, idéale pour les amateurs de profils sucrés, frais et candy. Mentos combine fraîcheur, douceur et qualité dans une sélection simple mais très efficace. 🍬🍫🔥",
           tarifs: [
             { weight: "10G", price: 60.0 },
             { weight: "25G", price: 130.0 },
@@ -2588,9 +2594,9 @@ document.addEventListener("DOMContentLoaded", function () {
           badgeText: "",
           products: [
             {
-              id: "777",
+              id: "La Colombienne",
               flag: "🇨🇴",
-              name: "❼❼❼",
+              name: "La Colombienne 🇨🇴",
               farm: "🌾 No Farm 🌾",
               promoEligible: true,
               /* clickable: false, */
