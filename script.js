@@ -1141,6 +1141,57 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategWeed.png", // Ton image de catégorie Weed
 
       products: [
+        {
+                    id: 'GAS TRUFFLE ⛽',
+                    flag: '🇺🇸',
+                    name: 'GAS TRUFFLE ⛽',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductGT.png', 
+                    video: 'VideoGT.mp4',
+                    description:   "⛽🍄 GAS TRUFFLE — CALI PREMIUM 🍄⛽\n\nUne sélection au profil puissant, profond et ultra aromatique. Gas Truffle se distingue par une belle intensité gassy, une rondeur terreuse raffinée et une vraie identité premium pensée pour les amateurs de profils lourds et marqués. 🇺🇸🔥\n\n👃 Profil aromatique :\n⛽ Notes gazeuses bien présentes\n🍄 Touches terreuses et truffées\n🌿 Fond végétal propre\n🍦 Légère rondeur crémeuse\n🔥 Finition résineuse intense\n\n👅 Goût :\nEn bouche, Gas Truffle développe une attaque puissante et aromatique, dominée par des notes gassy et terreuses. Le profil devient ensuite plus rond, avec une légère touche crémeuse qui équilibre parfaitement la finale, longue et bien marquée. 😮‍💨⛽\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil profond et expressif\n☁️ Fumée dense et savoureuse\n🔥 Belle longueur en bouche\n🍄 Identité forte et raffinée\n\n🏆 Le verdict :\nUne variété de caractère, idéale pour ceux qui aiment les profils gassy, terreux et résineux. Gas Truffle combine puissance aromatique, profondeur et finition premium dans une sélection qui ne passe pas inaperçue. ⛽🍄🔥",                    
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
+                    id: 'GRAPPE SODA',
+                    flag: '🇺🇸',
+                    name: 'GRAPPE SODA',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductGS.png', 
+                    video: 'VideoGS.mp4',
+                    description:   "🍇🥤 GRAPPE SODA — CALI PREMIUM 🥤🍇\n\nUne sélection fruitée, fraîche et ultra gourmande, pensée pour les amateurs de profils sucrés et modernes. Grappe Soda se distingue par ses notes de raisin, sa douceur candy et sa finition pétillante qui rappelle une boisson fruitée bien fraîche. 🇺🇸🔥\n\n👃 Profil aromatique :\n🍇 Raisin sucré et fruits violets\n🥤 Notes soda fraîches et pétillantes\n🍬 Touche candy bien marquée\n🌸 Légère nuance florale\n🌿 Fond propre et fruité\n\n👅 Goût :\nEn bouche, Grappe Soda développe une attaque douce et sucrée, avec une belle présence de raisin et de bonbon fruité. Le profil reste frais, rond et agréable, avec une finale pétillante et gourmande qui reste longtemps en bouche. 😮‍💨🍇\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil fruité très expressif\n☁️ Fumée douce et parfumée\n🔥 Belle gourmandise en bouche\n🥤 Identité originale et moderne\n\n🏆 Le verdict :\nUne variété parfaite pour ceux qui aiment les profils fruités, candy et rafraîchissants. Grappe Soda combine douceur, fraîcheur et vraie personnalité dans une sélection gourmande et efficace. 🍇🥤🔥",                   
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
+                    id: '🍨🌿 GELATO  🌿🍨',
+                    flag: '🇺🇸',
+                    name: '🍨🌿 GELATO 🌿🍨',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductGO.png', 
+                    video: 'VideoGO.mp4',
+                    description: '💎🔥 Une des variétés les plus célèbres de la famille Gelato, réputée pour son équilibre entre puissance, saveurs gourmandes et effets agréables. 🔥💎\n\n ✨ Origines\n Gelato #33 est issue du croisement entre la variété Sunset Sherbet et Thin Mint GSC (Girl Scout Cookies). Cette génétique lui a permis de devenir une référence mondiale dans l’univers du cannabis.  \n\n 🌈 Aspect\n • Têtes denses et compactes 🟣🟢\n • Couleurs vert foncé à violettes ✨\n • Couvertes d’une épaisse couche de résine givrée ❄️\n • Pistils orange vif 🧡  \n\n 👃 Arômes & Saveurs\n 🍦 Crémeux et gourmand\n 🍓 Notes de fruits rouges et d’agrumes\n 🍪 Fond biscuité et légèrement mentholé\n 🍋 Touches sucrées et citronnées  \n\n ⚡ Effets recherchés\n 😄 Euphorie et bonne humeur\n 🧠 Sensation de bien-être mental\n 🎨 Créativité et sociabilité\n 😌 Relaxation corporelle sans forcément être assommante\n 🌙 À dose plus élevée, elle peut devenir très relaxante et favoriser le repos  \n\n 🎯 Profil général\n • Hybride équilibrée (légère dominance indica selon les phénotypes)\n • THC souvent situé entre 20 % et 29 % 🔥\n • Adaptée aussi bien pour se détendre que pour profiter d’une activité calme ou entre amis.  \n\n ⭐ En résumé\n Gelato #33 est souvent appréciée pour son mélange de détente physique et d’euphorie mentale. Elle procure généralement un effet heureux, relaxant et agréable, accompagné d’un profil aromatique crémeux et sucré qui a fait sa réputation. 🍨✨',                    
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
         /* {
                     id: '🍰⛽ Cali Gascake ⛽🍰',
                     flag: '🇺🇸',
