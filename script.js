@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategHo.png", // Ton image de catégorie Weed
 
       products: [
-        {
+       /*  {
           id: "SuperSilverHaze",
           flag: "🇳🇱",
           name: "Super Silver Haze 🥬🥒",
@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
           description:
             "💎🔥 Considérée par de nombreux connaisseurs comme l’une des meilleures expressions de l’Amnesia, la Amnesia Core Cut est une sélection d’élite recherchée pour son profil terpénique puissant et son effet cérébral particulièrement intense. 🔥💎\n\n ✨ Les effets\n\n 🚀 Montée rapide et énergique\n 😄 Euphorie marquée\n 🧠 Stimulation mentale puissante\n 🎨 Créativité et concentration accrues\n 🗣️ Effet social apprécié des amateurs de sativas\n\n 👃 Les arômes\n\n 🍊 Agrumes frais et zestés\n 🌿 Notes Haze classiques\n 🌶️ Légères touches épicées et encensées\n\n 🌱 Pourquoi elle est si recherchée ? \n\n • Sélection réputée pour sa stabilité \n • Profil aromatique particulièrement intense \n • Forte production de résine ✨ \n • Expression fidèle de l’esprit Amnesia « old school » \n • Très appréciée des amateurs de Haze européennes\n\n 🏆 Pour les connaisseurs\n La Core Cut est souvent citée parmi les meilleures coupes d’Amnesia grâce à son équilibre entre puissance, saveurs citronnées explosives et effet mental clair. Beaucoup la considèrent comme une référence lorsqu’on parle de vraie Amnesia de haut niveau.\n\n ⭐ En résumé :\n Une Amnesia premium, ultra citronnée, résineuse et cérébrale, recherchée par les amateurs de Haze authentiques et les passionnés de génétiques européennes. 🔥⚡🧠💎🌿",
           tarifs: [{ weight: "10g", price: 70.0 }],
-        },
+        }, */
       ],
     },
     {
@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         }, */
-        {
+       /*  {
           id: "Pink Lemonade 🥤",
           flag: "🇺🇸",
           name: "Pink Lemonade 🥤",
@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 200.0 },
             { weight: "100G", price: 350.0 },
           ],
-        },
+        }, */
        /*  {
           id: "Candy Crush 🍭",
           flag: "🇺🇸",
@@ -224,7 +224,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         }, */
-        {
+       /*  {
           id: "ORANGE CREAMPOP 🔥💛",
           flag: "🇺🇸",
           name: "ORANGE CREAMPOP 🔥💛",
@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 200.0 },
             { weight: "100G", price: 350.0 },
           ],
-        },
+        }, */
         {
           id: "GELATO",
           flag: "🇺🇸",
@@ -508,7 +508,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategDouble.png", // Ton image de catégorie Weed
 
       products: [
-        {
+       /*  {
                     id: '🌟 CALYPSO',
                     flag: '🇲🇦',
                     name: '🌟 CALYPSO',
@@ -525,7 +525,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50G', price: 450.00},
                         { weight: '100G', price: 800.00}
                     ]
-                },
+                }, */
          {
           id: "Plasma static",
           flag: "🇺🇸",
@@ -561,24 +561,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 450.0 },
           ],
         },
-        {
-          id: "STRAWBERRY PINK",
-          flag: "🇺🇸",
-          name: "🍓 STRAWBERRY PINK 🌷",
-          farm: "🌸 The Pink Farms 🌸",
-          promoEligible: true,
-          type: "STATIC",
-          image: "ProductSTP.jpg",
-          video: "VideoSTP.mp4",
-          description:
-            "⚡️🌸 STATIC SIFT PLASMA 🌸⚡️ \n\n Une exclusivité ultra premium signée 🌸 The Pink Farms 🌸. La Strawberry Pink est une extraction static d'élite qui repousse les limites des profils fruités et floraux. Une véritable masterclass pour les palais les plus exigeants 🔥\n\n 👃 Aromatique :\n Dès l’ouverture, une explosion de fraise bien mûre et sucrée 🍓, enveloppée par des notes florales délicates 🌷. En arrière-plan, on retrouve un fond candy crémeux et une légère touche gazeuse ⛽️ qui vient rappeler l'ADN US de cette génétique exceptionnelle.\n\n 👅 Goût :\n En bouche, c’est une expérience luxueuse : attaque gourmande sur la fraise bonbon, suivie d'une rondeur lactée et florale qui tapisse le palais. La texture du static offre une combustion parfaite et une fumée épaisse, douce et ultra propre ☁️✨.\n\n 💨 Effets :\n Montée rapide avec un high très joyeux et euphorique 🚀. L'esprit reste clair et créatif tandis qu'une relaxation physique profonde s'installe progressivement 😌. Idéal pour chiller avec une vibe ultra positive.\n\n 🏆 Le verdict :\n Un static sift full terpènes, à la texture sableuse et fondante. The Pink Farms livre ici un produit d'une pureté maximale, alliant douceur extrême et vraie frappe de connaisseur 💎🍓.",
-          tarifs: [
-            { weight: "3G", price: 50.0  },
-            { weight: "10G", price: 140.0  },
-            { weight: "25G", price: 250.0 },
-            { weight: "50G", price: 450.0  },
-          ],
-        },
+       /* wweed holla */
       /*   {
           id: "HONEY (BANANAS x SPRITZER) 🍌🍯",
           flag: "🇺🇸",
@@ -1245,7 +1228,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50g", price: 350.0 },
           ],
         },
-        {
+        /* {
           id: "Lemon chery gelonade",
           flag: "🇺🇸",
           name: "Lemon Cherry Gelonade 🍨",
@@ -1280,7 +1263,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25g", price: 200.0 },
             { weight: "50g", price: 350.0 },
           ],
-        },
+        }, */
        /*  {
           id: "PermanentMarker 🖍️",
           flag: "🇺🇸",
@@ -1299,7 +1282,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50g", price: 350.0 },
           ],
         }, */
-        {
+        /* {
           id: "OBAMA RUNTZ 🇺🇸⚡️",
           flag: "🇺🇸",
           name: "OBAMA RUNTZ 🇺🇸⚡️",
@@ -1316,7 +1299,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25g", price: 200.0 },
             { weight: "50g", price: 350.0 },
           ],
-        },
+        }, */
        /*  {
           id: "🥣🥛 CEREAL MILK 🥛🥣",
           flag: "🇺🇸",
@@ -1882,7 +1865,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "Categ3X.png", // Ton image de catégorie Weed
 
       products: [
-        {
+       /*  {
           id: "Weeding Cake",
           flag: "🇲🇦",
           name: "Weeding Cake 🎂",
@@ -1900,7 +1883,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50G', price: 250.00 },
                         { weight: '100G', price: 400.00 },
           ],
-        },
+        }, */
          {
           id: "Mentos",
           flag: "🇲🇦",
@@ -1998,7 +1981,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         }, */
-        {
+       /*  {
           id: "Cereal Milk",
           flag: "🇲🇦",
           name: "Cereal Milk 🥣",
@@ -2033,7 +2016,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
        /*  {
           id: "Banana Limonade 🍹",
           flag: "🇲🇦",
@@ -2052,7 +2035,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         }, */
-        {
+       /*  {
           id: "Pineapple Juice 🍍",
           flag: "🇲🇦",
           name: "Pineapple Juice 🍍",
@@ -2069,8 +2052,8 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
-        {
+        }, */
+        /* {
           id: "Black Papaya ♣️",
           flag: "🇲🇦",
           name: "Black Papaya ♣️",
@@ -2087,7 +2070,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
         /* {
           id: "Peach Tsunami 🌊",
           flag: "🇲🇦",
@@ -2106,7 +2089,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         }, */
-        {
+        /* {
           id: "Tropicana Glue 🍼",
           flag: "🇲🇦",
           name: "Tropicana Glue 🍼",
@@ -2123,7 +2106,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
       /*   {
           id: "KitKat 🌰",
           flag: "🇲🇦",
