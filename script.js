@@ -1210,7 +1210,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50g", price: 350.0 },
           ],
         }, */
-        {
+       /*  {
           id: "Trade",
           flag: "🇺🇸",
           name: "Trade 📊",
@@ -1227,7 +1227,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25g", price: 200.0 },
             { weight: "50g", price: 350.0 },
           ],
-        },
+        }, */
         /* {
           id: "Lemon chery gelonade",
           flag: "🇺🇸",
@@ -2471,6 +2471,24 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategHash.png", // Ton image de catégorie Weed
 
       products: [
+         {
+          id: "Fresh Juice 🍹",
+          flag: "🇲🇦",
+          name: "Fresh Juice 🍹",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "Weed",
+          image: "ProductFJ.jpg",
+          video: "VideoFJ.mp4",
+          description:
+            "Fresh Juice 🍹\n\n Une sélection au profil gourmand et bien équilibré, inspirée de l’univers emblématique de Mario. Cette variété se distingue par ses notes fruitées, sucrées et légèrement terreuses, avec une belle intensité aromatique dès l’ouverture. 🔥💎\n\n 👃 Profil aromatique :\n 🍓 Fruits rouges sucrés\n 🍄 Notes terreuses légères\n 🍬 Bonbon fruité\n 🍋 Petite touche d’agrumes\n 🌿 Fond végétal doux et naturel\n\n 👅 Goût :\n En bouche, Mario développe une attaque fruitée et sucrée, suivie de notes plus rondes et légèrement terreuses. La fumée reste douce, agréable et laisse un arrière-goût gourmand avec une petite fraîcheur citronnée. 😮‍💨🍄\n\n ✨ Effets généralement recherchés :\n 😄 Bonne humeur et euphorie\n 🧠 Esprit léger et détendu\n 🎮 Sensation agréable et conviviale\n 💆 Relaxation corporelle progressive\n 🌙 Parfaite pour se poser tranquillement\n\n 🏆 Le verdict :\n Une variété originale, fruitée et facile à apprécier, idéale pour les amateurs de profils sucrés avec une légère touche terreuse. Mario combine gourmandise, équilibre et bonne vibe dans une sélection pleine de caractère. 🍄⭐🔥💎",
+          tarifs: [
+            { weight: "10g", price: 50.0 },
+            { weight: "25g", price: 110.0 },
+            { weight: "50g", price: 180.0 },
+            { weight: "100g", price: 310.0 },
+          ],
+        },
         {
           id: "AZILA",
           flag: "🇲🇦",
@@ -2488,127 +2506,6 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100g", price: 310.0 },
           ],
         },
-       
-        /* {
-          id: "Mario 🍄",
-          flag: "🇲🇦",
-          name: "Mario 🍄",
-          farm: "🌾 No Farm 🌾",
-          promoEligible: true,
-          type: "Weed",
-          image: "ProductWaza.jpg",
-          video: "",
-          description:
-            "🍄⭐ MARIO ⭐🍄\n\n Une sélection au profil gourmand et bien équilibré, inspirée de l’univers emblématique de Mario. Cette variété se distingue par ses notes fruitées, sucrées et légèrement terreuses, avec une belle intensité aromatique dès l’ouverture. 🔥💎\n\n 👃 Profil aromatique :\n 🍓 Fruits rouges sucrés\n 🍄 Notes terreuses légères\n 🍬 Bonbon fruité\n 🍋 Petite touche d’agrumes\n 🌿 Fond végétal doux et naturel\n\n 👅 Goût :\n En bouche, Mario développe une attaque fruitée et sucrée, suivie de notes plus rondes et légèrement terreuses. La fumée reste douce, agréable et laisse un arrière-goût gourmand avec une petite fraîcheur citronnée. 😮‍💨🍄\n\n ✨ Effets généralement recherchés :\n 😄 Bonne humeur et euphorie\n 🧠 Esprit léger et détendu\n 🎮 Sensation agréable et conviviale\n 💆 Relaxation corporelle progressive\n 🌙 Parfaite pour se poser tranquillement\n\n 🏆 Le verdict :\n Une variété originale, fruitée et facile à apprécier, idéale pour les amateurs de profils sucrés avec une légère touche terreuse. Mario combine gourmandise, équilibre et bonne vibe dans une sélection pleine de caractère. 🍄⭐🔥💎",
-          tarifs: [
-            { weight: "10g", price: 50.0 },
-            { weight: "25g", price: 110.0 },
-            { weight: "50g", price: 180.0 },
-            { weight: "100g", price: 310.0 },
-          ],
-        }, */
-        /* {
-                    id: 'Banana Candy 🍌',
-                    flag: '🇲🇦',
-                    name: 'Banana Candy 🍌',
-                    farm: '🧪 Kilogrammes Farm',
-                    promoEligible: true,
-                    type: 'Weed',
-                    image: 'ProductBCY.png', 
-                    video: 'VideoBCY.mov',
-                    description: '🌕🍌🍬 SUPER MOUSSEUX 🍬🍌🌕\n 🦊🔥 Une vraie pépite signée KGF 🔥🦊\n 💛✨ Un jaune ultra mousseux qui attire l’œil dès le premier regard et qui promet une expérience aussi gourmande que généreuse. ✨💛\n 🍌🍭 Strain : Banana Candy 🍭🍌\n\n 🌴✨ Profil aromatique ✨\n Banana Candy porte parfaitement son nom 🤤🔥. Dès l’ouverture, une vague de banane mûre 🍌 envahit les sens, accompagnée d’un mélange de bonbons fruités 🍬, de crème vanillée 🍦 et d’une légère touche tropicale 🥭. En arrière-plan, quelques nuances sucrées rappelant le caramel tendre 🍯 viennent compléter un profil particulièrement gourmand.\n\n 😮‍💨🍌 Goût\n À la dégustation, Banana Candy offre une fumée particulièrement douce et savoureuse ☁️✨. La banane est omniprésente dès les premières bouffées 🍌🔥, rapidement accompagnée par des notes de confiserie fruitée 🍬 et de crème sucrée 🍦. La texture mousseuse apporte une sensation fondante agréable, tandis que la finale laisse une empreinte gourmande et légèrement exotique sur le palais 😋💨.\n\n 💛☁️ Texture\n 🌕 Aspect jaune doré éclatant\n ☁️ Texture très mousseuse et aérée\n 🤲 Souple et facile à travailler\n ✨ Belle richesse en résine\n 🔥 Combustion homogène et agréable\n\n ⚡🌈 Ambiance\n Banana Candy séduit avant tout par son profil ultra gourmand et sa douceur de dégustation 😌✨.\n 😁 Sensation de confort immédiat\n 🍭 Expérience axée sur le plaisir aromatique\n 🌴 Atmosphère détendue et agréable\n ☁️ Moment de dégustation tout en douceur\n 🌙 Idéal pour les amateurs de profils dessert et fruités\n\n 🏆🦊 Le verdict\n 🌕🍌🍬 Un nuage de banane crémeuse et de bonbons fruités, porté par une texture ultra mousseuse qui fait toute la différence. Une vraie gourmandise signée KGF. 🦊🔥💨👑💛✨',
-                    tarifs: [
-                        { weight: '10g', price: 60.00 },
-                        { weight: '20g', price: 100.00 },
-                        { weight: '50g', price: 200.00 },
-                        { weight: '100g', price: 330.00 },
-                    ]
-                },
-                {
-                    id: 'Cherry Soda 🍒',
-                    flag: '🇲🇦',
-                    name: 'Cherry Soda 🍒',
-                    farm: '🧪 Kilogrammes Farm',
-                    promoEligible: true,
-                    type: 'Weed',
-                    image: 'ProductCSA.png', 
-                    video: 'VideoCSA.mov',
-                    description: '🌕🍒🥤 SUPER MOUSSEUX 🥤🍒🌕\n 🦊🔥 Une vraie pépite signée KGF 🔥🦊\n 💛✨ Un jaune ultra mousseux à la texture aérienne et fondante, associé à une génétique qui ne passe jamais inaperçue. Une sélection qui mise autant sur le plaisir visuel que sur la richesse aromatique. ✨💛\n 🍒🥤 Strain : Cherry Soda 🥤🍒\n\n ✨ Profil aromatique ✨\n Dès l’ouverture, Cherry Soda dévoile un bouquet explosif et terriblement gourmand 🤤💨. Les premières notes rappellent une limonade à la cerise fraîche 🍒🥤, accompagnée d’un côté sucré évoquant les bonbons acidulés 🍬. À mesure que les arômes se développent, on découvre des touches de fruits rouges mûrs 🍓, de sirop de cerise 🍒 et une légère fraîcheur pétillante qui fait toute l’originalité de cette variété. \n\n 😮‍💨🍒 Goût\n À la dégustation, Cherry Soda offre une expérience particulièrement savoureuse ☁️✨. L’attaque est dominée par une cerise sucrée et juteuse 🍒, rapidement rejointe par des notes de soda fruité 🥤 et de confiserie acidulée 🍬. La fumée est douce, ronde et agréable, tandis que la finale laisse une sensation fruitée persistante avec un léger côté pétillant caractéristique de la variété 😋🔥.\n\n 💛☁️ Texture\n 🌕 Belle couleur jaune dorée\n ☁️ Texture ultra mousseuse et légère\n 🤲 Facile à travailler et à effriter\n ✨ Aspect résineux particulièrement attractif\n 🔥 Consommation homogène et agréable\n\n ⚡🌈 Ambiance\n 🍒 Bonne humeur et plaisir aromatique au rendez-vous\n ✨ Expérience douce et gourmande\n 😌 Moment de détente agréable\n ☁️ Sensation légère et réconfortante\n 🌙 Idéal pour les amateurs de profils fruités et sucrés\n\n 🏆🦊 Le verdict\n 🌕🍒🥤 Une explosion de cerise sucrée, de bonbons acidulés et de fraîcheur pétillante dans une texture jaune ultra mousseuse. Une vraie gourmandise signée KGF. 🦊🔥💨👑✨🍬🍓💛',
-                    tarifs: [
-                        { weight: '10g', price: 60.00 },
-                        { weight: '20g', price: 100.00 },
-                        { weight: '50g', price: 200.00 },
-                        { weight: '100g', price: 330.00 },
-                    ]
-                }, */
-        /*  {
-                    id: 'MANGO',
-                    flag: '🇲🇦',
-                    name: 'MANGO 🥭',
-                    farm: '🧪 Kilogrammes Farm',
-                    promoEligible: true,
-                    type: 'Weed',
-                    image: 'ProductMan.png', 
-                    video: 'VideoMan.mov',
-                    description: '🌕🥭🔥 SUPER MOUSSEUX 🔥🥭🌕\n 🦊💎 Une vraie pépite signée KGF 💎🦊\n 💛✨ Ce jaune ultra mousseux attire immédiatement l’attention avec sa texture aérienne, sa couleur dorée éclatante et son profil tropical débordant de gourmandise. ✨💛\n 🥭🌴 Strain : Mango 🌴🥭\n\n ✨ Profil aromatique ✨\n Préparez-vous à une véritable escapade sous les tropiques 🌞🏝️. Dès l’ouverture, Mango libère un parfum intense de mangue bien mûre 🥭, accompagné de notes exotiques sucrées 🍍 et d’une légère touche d’agrumes 🍊. Son profil riche et ensoleillé est complété par des nuances crémeuses et fruitées qui rappellent un smoothie tropical fraîchement préparé 🥤🤤.\n\n 😮‍💨🥭 Goût\n À la dégustation, Mango dévoile toute sa richesse aromatique 💨✨. L’attaque est dominée par une mangue charnue et sucrée 🥭🔥, suivie de notes exotiques rappelant l’ananas et les fruits tropicaux 🍍🌴. La fumée est douce, crémeuse et particulièrement agréable ☁️🤍. La finale laisse une sensation fruitée persistante avec une belle longueur en bouche 😋💛.\n\n 💛☁️ Texture\n 🌕 Couleur jaune dorée lumineuse\n ☁️ Texture ultra mousseuse et fondante\n 🤲 Très souple et agréable à manipuler\n ✨ Aspect résineux premium\n 🔥 Belle homogénéité à la dégustation\n\n ⚡🌴 Ambiance\n 😁 Sensation de plaisir immédiat\n 🌞 Profil lumineux et gourmand\n ✨ Moment de détente agréable\n 🥭 Explosion tropicale à chaque bouffée\n ☁️ Expérience douce et savoureuse\n 🌙 Idéal pour les amateurs de variétés fruitées et exotiques\n\n 🏆🦊 Le verdict\n 🌕🥭🍍 Une vague de mangue sucrée, de fruits exotiques et de douceur tropicale dans un jaune super mousseux qui risque de faire fondre les amateurs de saveurs fruitées. 🦊💛🔥💨👑🌴✨🍯☀️',
-                    tarifs: [
-                        { weight: '10g', price: 60.00 },
-                        { weight: '20g', price: 100.00 },
-                        { weight: '50g', price: 200.00 },
-                        { weight: '100g', price: 330.00 },
-                    ]
-                },
-                {
-                    id: '💥 Berry w7 💥',
-                    flag: '🇲🇦',
-                    name: '💥 Berry w7 💥',
-                    farm: '🌾 No Farm 🌾',
-                    promoEligible: true,
-                    type: 'Weed',
-                    image: 'ProductB7.png', 
-                    video: 'VideoB7.mov',
-                    description: '🌕 SUPER MOUSSEUX 🌕 \n\n Récolte 2026\n Une vraie pépite signée Berry W7\n Ce jaune super mousseux sur la strain envoie un profil ultra gourmand et fruité, avec une texture bien grasse et mousseuse comme les amateurs aiment 🔥\n\n 👃 Aromatique :\n À l’ouverture, ça dégage direct une grosse odeur , \n\n Derrière, t’as une légère touche creamy/gazeuse avec un fond un peu tropical qui reste longtemps au nez. Une strain connue pour son profil dessert fruité ultra propre.  \n\n 👅 Goût :\n En bouche c’est super doux et bien terpy 😮‍💨 mûr, fruits exotiques et candy sucré avec une finition légèrement crémeuse. La fumée est épaisse, propre et ultra savoureuse du début à la fin.\n\n 💨 Effets :\n Bonne grosse détente mentale et physique, montée euphorique puis relaxation bien lourde 🫠\n Parfait pour les amateurs de hash premium avec une vraie identité gustative.\n\n ✨ Texture mousseuse\n ✨ Full terpènes\n ✨ Très propre à la combustion\n ✨ Grosse frappe 2026\n\n Berry w7 produit tres demander = du très très lourd',
-                    tarifs: [
-                        { weight: '10g', price: 50.00 },
-                        { weight: '25g', price: 110.00 },
-                        { weight: '50g', price: 180.00 },
-                        { weight: '100g', price: 310.00 },
-                    ]
-                }, */
-        /*  {
-                    id: '🌕🍈 SUPER MOUSSEUX 🍈🌕',
-                    flag: '🇲🇦',
-                    name: '🌕🍈 Moon Melon 🍈🌕',
-                    farm: '🧪 Kilogrammes Farm',
-                    promoEligible: true,
-                    type: 'Weed',
-                    image: 'ProductMoo.png', 
-                    video: 'VideoMoo.mov',
-                    description: '🌕🍈🚀 SUPER MOUSSEUX 🚀🍈🌕\n\n 🦊🔥 Une vraie pépite signée KGF 🔥🦊\n 💛✨ Ce jaune super mousseux se démarque par sa texture fondante et son profil fruité d’une rare gourmandise. Une sélection qui sent bon l’été et les fruits gorgés de soleil. ✨💛\n\n 🍈🌙 Strain : Moon Melon 🌙🍈\n\n ✨ Profil aromatique ✨\n Moon Melon dévoile un univers aromatique aussi doux qu’exotique 🤤💨. Dès l’ouverture, des notes intenses de melon sucré 🍈 envahissent les sens, accompagnées d’une touche de pastèque fraîche 🍉 et de fruits tropicaux juteux 🥭. L’ensemble est sublimé par une légère fraîcheur florale 🌸 et une douceur crémeuse qui rappelle les bonbons aux fruits d’été 🍬☀️.\n 👃💨 Arômes dominants\n\n 😮‍💨🍈 Goût\n À la dégustation, Moon Melon offre une expérience particulièrement douce et savoureuse ☁️✨. L’attaque est dominée par un melon sucré et désaltérant 🍈🔥, rapidement rejoint par des notes de pastèque 🍉 et de fruits tropicaux 🥭. La fumée est ronde, légère et agréable, avec une finale fraîche et fruitée qui reste longtemps en bouche 😋💨.\n\n 💛☁️ Texture\n 🌕 Jaune doré éclatant\n ☁️ Texture ultra mousseuse et aérienne\n 🤲 Souple et facile à travailler\n ✨ Aspect fondant et résineux\n 🔥 Qualité visuelle premium\n\n ⚡🌴 Ambiance\n 😁 Sensation de plaisir immédiat\n 🍈 Profil ultra fruité et gourmand\n ✨ Moment de détente tout en douceur\n ☀️ Saveurs parfaites pour les amateurs de fruits d’été\n ☁️ Expérience légère et savoureuse\n 🌙 Une variété qui invite à la détente et à l’évasion\n\n 🏆🦊 Le verdict\n\n 🌕🍈🍉 Une explosion de melon juteux, de pastèque sucrée et de fruits exotiques dans un jaune super mousseux aussi beau à regarder qu’agréable à déguster. 🦊🔥💨👑💛✨🌴🍬🚀',
-                    tarifs: [
-                        { weight: '10g', price: 60.00 },
-                        { weight: '20g', price: 100.00 },
-                        { weight: '50g', price: 200.00 },
-                        { weight: '100g', price: 330.00 },
-                    ]
-                }, */
-        /* {
-                    id: 'NICOLE KUSH ✨',
-                    flag: '🇺🇸',
-                    name: 'NICOLE KUSH ✨',
-                    farm: '🧪 Kilogrammes Farm',
-                    promoEligible: true,
-                    type: 'Weed',
-                    image: 'ProductNicole.png', 
-                    video: 'VideoNicole.mov',
-                    description: '💛 JAUNE MOUSSEUX \n\n 🇫🇷 Premium France \n 🧪 Travaillé par Kilogrammes Farm  \n\n 🔥 Description  \n\n Oublie le “jaune mousseux” classique. \n Ici on est sur un jaune mousseux premium de très haute qualité, travaillé par Kilogrammes Farm sur la génétique Nicole Kush — un produit qui met tout le monde d’accord dès la première odeur.  \n\n Le goût est propre, rond et puissant : notes kushy bien grasses, touches légèrement sucrées, avec un fond crémeux qui reste longtemps en bouche. Zéro goût chimique, zéro sensation cheap — c’est du vrai jaune mousseux de connaisseur.  \n\n  La texture est bien mousseuse, grasse, fondante, facile à travailler, qui s’effrite parfaitement sans coller. \n À l’odeur, c’est lourd, kush, propre, ça annonce direct le niveau premium.  \n\n 😶‍🌫️ Effet / High  \n\n Grosse montée propre et progressive. \n  High puissant mais clean, mental détendu + corps lourd, parfait pour se poser fort sans être éclaté. \n Tu sens direct que c’est au-dessus du lot.  \n\n 🏆 Pourquoi c’est du haut niveau \n • 🌿 Travaillé par Kilogrammes Farm \n • 🧬 Génétique : Nicole Kush \n • 💛 Jaune mousseux premium (pas du jaune basique) \n • 😮‍💨 Goût lourd, kushy, crémeux \n • 💎 Texture mousseuse grasse \n • 🇫🇷 Clairement dans le top des jaunes premium en France  \n\n  📦 Pour les vrais amateurs de qualité \n Si tu veux du jaune mousseux qui a du goût + du high + du standing, celui-là coche toutes les cases.',
-                    tarifs: [
-                        { weight: '10g', price: 60.00 },
-                        { weight: '20g', price: 100.00 },
-                        { weight: '50g', price: 200.00 },
-                        { weight: '100g', price: 330.00 },
-                    ]
-                },  */
       ],
     },
 
