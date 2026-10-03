@@ -1158,7 +1158,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 }, 
-        {
+       /*  {
                     id: '🍨🌿 GELATO  🌿🍨',
                     flag: '🇺🇸',
                     name: '🍨🌿 GELATO 🌿🍨',
@@ -1174,7 +1174,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
         /* {
                     id: '🍰⛽ Cali Gascake ⛽🍰',
                     flag: '🇺🇸',
@@ -1456,7 +1456,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategFrozen.png", // Ton image de catégorie Weed
 
       products: [
-        {
+       /*  {
           id: "YellowGaz",
           flag: "🇺🇸",
           name: "YellowGaz 👑",
@@ -1474,7 +1474,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 350.0 },
             { weight: "100G", price: 680.0 },
           ],
-        },
+        }, */
         {
           id: "🧊 Frozen 🧊",
           flag: "🇺🇸",
@@ -1490,7 +1490,7 @@ document.addEventListener("DOMContentLoaded", function () {
                          variantTitle: 'Choisis ta strain 🥣 :',
                          jars: [
                              { name: 'MIMOSA', emoji: '🥵', colorClass: 'style-passion' },
-                             { name: 'ICC X LCG', emoji: '🍑🍯', colorClass: 'style-orange' }
+                             /* { name: 'ICC X LCG', emoji: '🍑🍯', colorClass: 'style-orange' } */
                          ],
           tarifs: [
             { weight: "5G", price: 50.0 },
@@ -2489,7 +2489,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100g", price: 310.0 },
           ],
         },
-        {
+        /* {
           id: "AZILA",
           flag: "🇲🇦",
           name: "AZILA ⚽",
@@ -2505,7 +2505,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50g", price: 180.0 },
             { weight: "100g", price: 310.0 },
           ],
-        },
+        }, */
       ],
     },
 
@@ -2542,7 +2542,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { weight: "10g", price: 370.0 },
               ],
             },
-            {
+            /* {
               id: "Fish Scales 🐟",
               flag: "🇱🇧",
               name: "Fish Scales 🐟",
@@ -2575,7 +2575,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { weight: "5g", price: 320.0 },
                 { weight: "10g", price: 600.0 },
               ],
-            },
+            }, */
           ],
         },
 
