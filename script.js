@@ -1475,7 +1475,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 680.0 },
           ],
         }, */
-        {
+        /* {
           id: "🧊 Frozen 🧊",
           flag: "🇺🇸",
           name: "🧊 Frozen 🧊",
@@ -1490,7 +1490,7 @@ document.addEventListener("DOMContentLoaded", function () {
                          variantTitle: 'Choisis ta strain 🥣 :',
                          jars: [
                              { name: 'MIMOSA', emoji: '🥵', colorClass: 'style-passion' },
-                             /* { name: 'ICC X LCG', emoji: '🍑🍯', colorClass: 'style-orange' } */
+                             /* { name: 'ICC X LCG', emoji: '🍑🍯', colorClass: 'style-orange' } 
                          ],
           tarifs: [
             { weight: "5G", price: 50.0 },
@@ -1499,7 +1499,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 350.0 },
             { weight: "100G", price: 680.0 },
           ],
-        },
+        }, */
         {
                     id: 'OLIVE',
                     flag: '🇲🇦',
