@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function () {
           description:
               "NOUVELLE ARRIVAGE : \n\n 🥬🥒 SUPER SILVER HAZE — HOLLANDE 🇳🇱🥒🥬\n\nUne grande classique hollandaise au profil frais, végétal et citronné. La Super Silver Haze est une sélection appréciée des connaisseurs pour son identité old school, son parfum expressif et sa vraie signature Haze européenne. 🇳🇱🔥\n\n👃 Profil aromatique :\n🍋 Notes citronnées et fraîches\n🌿 Arômes Haze classiques\n🥒 Touches vertes et végétales\n🌶️ Petite pointe épicée\n🌬️ Fond légèrement encensé\n\n👅 Goût :\nEn bouche, la Super Silver Haze développe une attaque fraîche et citronnée, accompagnée de notes végétales et légèrement épicées. La dégustation reste vive, propre et aromatique, avec une finale Haze bien marquée qui reste en bouche. 😮‍💨🥬\n\n✨ Qualité & sélection :\n💎 Profil old school reconnu\n🌱 Arômes frais et naturels\n🔥 Sélection hollandaise classique\n☁️ Fumée douce et parfumée\n🇳🇱 Référence appréciée des amateurs de Haze\n\n🏆 Le verdict :\nUne valeur sûre pour ceux qui aiment les profils frais, citronnés et typiquement hollandais. Super Silver Haze combine fraîcheur, caractère et authenticité dans une sélection simple, efficace et pleine de personnalité. 🥬🥒🇳🇱🔥",
           tarifs: [{ weight: "10g", price: 70.0 }],
-        },
+        }, */
         {
           id: "🧠🍀AMNESIA CORE CUT 🍀🧠",
           flag: "🇳🇱",
@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", function () {
           description:
             "💎🔥 Considérée par de nombreux connaisseurs comme l’une des meilleures expressions de l’Amnesia, la Amnesia Core Cut est une sélection d’élite recherchée pour son profil terpénique puissant et son effet cérébral particulièrement intense. 🔥💎\n\n ✨ Les effets\n\n 🚀 Montée rapide et énergique\n 😄 Euphorie marquée\n 🧠 Stimulation mentale puissante\n 🎨 Créativité et concentration accrues\n 🗣️ Effet social apprécié des amateurs de sativas\n\n 👃 Les arômes\n\n 🍊 Agrumes frais et zestés\n 🌿 Notes Haze classiques\n 🌶️ Légères touches épicées et encensées\n\n 🌱 Pourquoi elle est si recherchée ? \n\n • Sélection réputée pour sa stabilité \n • Profil aromatique particulièrement intense \n • Forte production de résine ✨ \n • Expression fidèle de l’esprit Amnesia « old school » \n • Très appréciée des amateurs de Haze européennes\n\n 🏆 Pour les connaisseurs\n La Core Cut est souvent citée parmi les meilleures coupes d’Amnesia grâce à son équilibre entre puissance, saveurs citronnées explosives et effet mental clair. Beaucoup la considèrent comme une référence lorsqu’on parle de vraie Amnesia de haut niveau.\n\n ⭐ En résumé :\n Une Amnesia premium, ultra citronnée, résineuse et cérébrale, recherchée par les amateurs de Haze authentiques et les passionnés de génétiques européennes. 🔥⚡🧠💎🌿",
           tarifs: [{ weight: "10g", price: 70.0 }],
-        }, */
+        },
       ],
     },
     {
@@ -1884,7 +1884,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '100G', price: 400.00 },
           ],
         }, */
-         {
+        /*  {
           id: "Mentos",
           flag: "🇲🇦",
           name: "Mentos 🍬",
@@ -1901,7 +1901,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 230.0 },
             { weight: "100G", price: 420.0 },
           ],
-        },
+        }, */
          {
           id: "FILTRED ⚡",
           flag: "🇲🇦",
@@ -1912,10 +1912,10 @@ document.addEventListener("DOMContentLoaded", function () {
           image: "ProductF.png",
           video: "VideoF.mov",
           description:
-              "⚡❄️ FILTRED — SÉLECTION PREMIUM ❄️⚡\n\nUne sélection filtrée au profil gourmand, propre et bien travaillé. FILTRED se distingue par une texture souple, une belle intensité aromatique et plusieurs saveurs bien marquées pour varier les plaisirs. 🇲🇦🔥\n\n👃 Saveurs disponibles :\n🍮 Super Caramelo : notes caramel, crème brûlée et douceur sucrée\n🍫 Nutella : profil cacao, noisette et rondeur gourmande\n🌸 Fanta : touche fruitée, sucrée et légèrement pétillante\n\n👅 Goût :\nEn bouche, FILTRED développe une attaque douce et aromatique, avec une belle rondeur selon la saveur choisie. Le profil reste propre, agréable et bien équilibré, avec une finale gourmande qui reste présente. 😮‍💨⚡\n\n✨ Texture & qualité :\n💎 Filtré soigneusement sélectionné\n🤲 Texture souple et facile à travailler\n🌈 Saveurs bien distinctes\n☁️ Fumée douce et parfumée\n🔥 Profil propre, régulier et gourmand\n\n🏆 Le verdict :\nUne sélection filtrée efficace et gourmande, parfaite pour ceux qui aiment choisir entre plusieurs profils aromatiques. FILTRED combine qualité, variété et finition propre dans une gamme simple et bien maîtrisée. ⚡❄️🔥",
+              "⚡❄️ FILTRED — SÉLECTION PREMIUM ❄️⚡\n\nUne sélection filtrée au profil gourmand, propre et bien travaillé. FILTRED se distingue par une texture souple, une belle intensité aromatique et plusieurs saveurs bien marquées pour varier les plaisirs. 🇲🇦🔥\n\n👃 Saveurs disponibles :\n 🍫 Nutella : profil cacao, noisette et rondeur gourmande\n🌸 Fanta : touche fruitée, sucrée et légèrement pétillante\n\n👅 Goût :\nEn bouche, FILTRED développe une attaque douce et aromatique, avec une belle rondeur selon la saveur choisie. Le profil reste propre, agréable et bien équilibré, avec une finale gourmande qui reste présente. 😮‍💨⚡\n\n✨ Texture & qualité :\n💎 Filtré soigneusement sélectionné\n🤲 Texture souple et facile à travailler\n🌈 Saveurs bien distinctes\n☁️ Fumée douce et parfumée\n🔥 Profil propre, régulier et gourmand\n\n🏆 Le verdict :\nUne sélection filtrée efficace et gourmande, parfaite pour ceux qui aiment choisir entre plusieurs profils aromatiques. FILTRED combine qualité, variété et finition propre dans une gamme simple et bien maîtrisée. ⚡❄️🔥",
           variantTitle: "Saveurs Filtrer ❄️ :",
           jars: [
-            { name: "Super Caramelo", emoji: "🍮", colorClass: "style-brown" },
+            /* { name: "Super Caramelo", emoji: "🍮", colorClass: "style-brown" }, */
             { name: "Nutella", emoji: "🍫", colorClass: "style-red" },
             { name: "Fanta", emoji: "🌸", colorClass: "style-yellow" },
           ],
