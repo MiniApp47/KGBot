@@ -1125,6 +1125,74 @@ document.addEventListener("DOMContentLoaded", function () {
 
       products: [
         {
+                    id: 'Super bob',
+                    flag: '🇺🇸',
+                    name: 'Super bob 🧋',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductSBB.png', 
+                    video: 'VideoSBB.mp4',
+                    description:   "🧋✨ SUPER BOB — CALI PREMIUM ✨🧋\n\nUne sélection au profil gourmand, doux et moderne, pensée pour les amateurs de saveurs sucrées et bien rondes. Super Bob se distingue par une belle expression aromatique, une identité originale et une finition propre qui le rend très agréable à découvrir. 🇺🇸🔥\n\n👃 Profil aromatique :\n🧋 Notes sucrées et gourmandes\n🍬 Touche candy légère\n🍦 Fond crémeux et doux\n🌿 Nuance végétale propre\n✨ Finition parfumée et élégante\n\n👅 Goût :\nEn bouche, Super Bob développe une attaque douce et gourmande, avec des notes sucrées bien présentes et une belle rondeur. Le profil reste propre, agréable et harmonieux, avec une finale légère et savoureuse. 😮‍💨🧋\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil gourmand et bien travaillé\n☁️ Dégustation douce et parfumée\n🔥 Belle rondeur en bouche\n🧋 Identité originale et moderne\n\n🏆 Le verdict :\nUne variété gourmande et accessible, parfaite pour ceux qui aiment les profils doux, sucrés et crémeux. Super Bob combine originalité, douceur et finition premium dans une sélection très agréable. 🧋✨🔥",                    
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
+                    id: 'Chantilly cake',
+                    flag: '🇺🇸',
+                    name: 'Chantilly cake 🎂',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductCC.png', 
+                    video: 'VideoCC.mp4',
+                    description:   "🎂🍦 CHANTILLY CAKE — CALI PREMIUM 🍦🎂\n\nUne sélection au profil dessert, crémeux et ultra gourmand. Chantilly Cake se distingue par ses notes pâtissières, sa rondeur vanillée et une vraie identité sucrée qui en fait une variété particulièrement plaisante pour les amateurs de profils doux et raffinés. 🇺🇸🔥\n\n👃 Profil aromatique :\n🎂 Notes de gâteau sucré\n🍦 Crème chantilly et vanille\n🍬 Touche candy discrète\n🍯 Fond doux légèrement miellé\n🌿 Finition propre et élégante\n\n👅 Goût :\nEn bouche, Chantilly Cake développe une attaque crémeuse et gourmande, suivie de notes pâtissières bien présentes. Le profil reste rond, sucré et harmonieux, avec une finale dessert particulièrement agréable. 😮‍💨🎂\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil dessert très expressif\n☁️ Dégustation douce et savoureuse\n🔥 Belle rondeur aromatique\n🎂 Identité gourmande affirmée\n\n🏆 Le verdict :\nUne variété parfaite pour ceux qui aiment les profils crémeux, vanillés et pâtissiers. Chantilly Cake combine douceur, gourmandise et finition premium dans une sélection qui porte très bien son nom. 🎂🍦🔥",                
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
+                    id: 'Strawberry',
+                    flag: '🇺🇸',
+                    name: 'Strawberry 🍓',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductST.png', 
+                    video: 'VideoST.mp4',
+                    description:   "🍓✨ STRAWBERRY — CALI PREMIUM ✨🍓\n\nUne sélection fruitée, fraîche et gourmande, pensée pour les amateurs de profils simples, efficaces et très aromatiques. Strawberry se distingue par sa belle expression de fruits rouges, sa douceur naturelle et sa finition propre qui la rend très agréable à apprécier. 🇺🇸🔥\n\n👃 Profil aromatique :\n🍓 Fraise sucrée et fruits rouges\n🍬 Touche candy légère\n🌸 Nuance florale discrète\n🍦 Fond doux et légèrement crémeux\n🌿 Finition fruitée propre\n\n👅 Goût :\nEn bouche, Strawberry développe une attaque douce et fruitée, dominée par des notes de fraise bien mûre. Le profil reste rond, parfumé et agréable, avec une finale sucrée et fraîche qui reste bien présente. 😮‍💨🍓\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil fruité bien marqué\n☁️ Dégustation douce et parfumée\n🔥 Belle gourmandise naturelle\n🍓 Identité fruitée très agréable\n\n🏆 Le verdict :\nUne variété idéale pour ceux qui aiment les profils fruités, sucrés et accessibles. Strawberry combine fraîcheur, douceur et vraie personnalité dans une sélection gourmande et efficace. 🍓✨🔥",                    
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
+                    id: 'Rs11 🏎️',
+                    flag: '🇺🇸',
+                    name: 'Rs11 🏎️',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductRS.png', 
+                    video: 'VideoRS.mp4',
+                    description:  "🏎️🍬 RS11 — CALI PREMIUM 🍬🏎️\n\nUne sélection moderne au profil complexe, sucré et très travaillé. RS11 se distingue par une belle intensité aromatique, une identité candy/fruity bien reconnaissable et une finition premium pensée pour les amateurs de variétés actuelles et expressives. 🇺🇸🔥\n\n👃 Profil aromatique :\n🍬 Notes candy bien présentes\n🍇 Fruits sucrés et nuances exotiques\n🍦 Légère rondeur crémeuse\n🌿 Fond propre et équilibré\n🔥 Finition résineuse élégante\n\n👅 Goût :\nEn bouche, RS11 développe une attaque douce et sucrée, rapidement suivie par des notes fruitées et une belle rondeur. Le profil reste riche, moderne et très agréable, avec une finale savoureuse qui marque bien son identité. 😮‍💨🏎️\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil moderne et expressif\n☁️ Dégustation dense et parfumée\n🔥 Belle longueur en bouche\n🏎️ Variété au caractère affirmé\n\n🏆 Le verdict :\nUne variété de choix pour ceux qui aiment les profils candy, fruités et contemporains. RS11 combine intensité aromatique, douceur et finition premium dans une sélection très propre. 🏎️🍬🔥",                   
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
                     id: 'GAS TRUFFLE ⛽',
                     flag: '🇺🇸',
                     name: 'GAS TRUFFLE ⛽',
