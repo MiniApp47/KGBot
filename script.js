@@ -1524,6 +1524,23 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategFrozen.png", // Ton image de catégorie Weed
 
       products: [
+        {
+          id: "Barbara bud",
+          flag: "🇺🇸",
+          name: "Barbara bud 🎂",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "FROZEN",
+          image: "ProductBB.jpg",
+          video: "VideoBB.mp4",
+          description:
+            "",
+          tarifs: [
+            { weight: "5G", price: 50.0 },
+            { weight: "10G", price: 90.0 },
+            { weight: "25G", price: 200.0 },
+                  ],
+        },
        /*  {
           id: "YellowGaz",
           flag: "🇺🇸",
@@ -1933,6 +1950,44 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "Categ3X.png", // Ton image de catégorie Weed
 
       products: [
+        {
+          id: "Bruce banner",
+          flag: "🇲🇦",
+          name: "Bruce Banner 🎗",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductBR.png",
+          video: "VideoBR.mp4",
+          description:
+                "",
+          tarifs: [
+            { weight: "5G", price: 50.0 },
+            { weight: "10G", price: 80.0 },
+            { weight: "20G", price: 140.0 },
+            { weight: "50G", price: 250.0 },
+            { weight: "100G", price: 400.0 },
+          ],
+        },
+        {
+          id: "mango sherbet",
+          flag: "🇲🇦",
+          name: "MANGO SHERBET 🍯",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductMS.png",
+          video: "VideoMS.mp4",
+          description:
+                "",
+          tarifs: [
+            { weight: "5G", price: 50.0 },
+            { weight: "10G", price: 80.0 },
+            { weight: "20G", price: 140.0 },
+            { weight: "50G", price: 250.0 },
+            { weight: "100G", price: 400.0 },
+          ],
+        },
        /*  {
           id: "Weeding Cake",
           flag: "🇲🇦",
