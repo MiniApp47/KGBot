@@ -1957,7 +1957,7 @@ document.addEventListener("DOMContentLoaded", function () {
           farm: "🌾 No Farm 🌾",
           promoEligible: true,
           type: "3xFiltre",
-          image: "ProductBR.png",
+          image: "ProductBR.jpg",
           video: "VideoBR.mp4",
           description:
                 "",
