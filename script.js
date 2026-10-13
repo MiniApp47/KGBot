@@ -112,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategJauneUsa.png", // Ton image de catégorie Weed
 
       products: [
-         {
+        /*  {
                     id: 'Papaya',
                     flag: '🇺🇸',
                     name: 'PAPAYA 🥭',
@@ -131,8 +131,8 @@ document.addEventListener("DOMContentLoaded", function () {
               weight: "100G",
               price: 350.0            },
                     ]
-                },
-                {
+                }, */
+               /*  {
                     id: 'RUNTZ',
                     flag: '🇺🇸',
                     name: 'RUNTZ 🍁',
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function () {
               weight: "100G",
               price: 350.0            },
                     ]
-                },
+                }, */
        /*  {
           id: "White truffle 🍄",
           flag: "🇺🇸",
@@ -260,7 +260,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         }, */
-        {
+       /*  {
           id: "GELATO",
           flag: "🇺🇸",
           name: "GELATO 🍦",
@@ -281,7 +281,7 @@ document.addEventListener("DOMContentLoaded", function () {
               price: 350.0            },
 
           ],
-        },
+        }, */
         {
           id: "CHERRY PIE",
           flag: "🇺🇸",
@@ -1192,7 +1192,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 }, 
-        {
+       /*  {
                     id: 'GAS TRUFFLE ⛽',
                     flag: '🇺🇸',
                     name: 'GAS TRUFFLE ⛽',
@@ -1208,7 +1208,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
         {
                     id: 'GRAPPE SODA',
                     flag: '🇺🇸',
@@ -2035,11 +2035,11 @@ document.addEventListener("DOMContentLoaded", function () {
           image: "ProductF.png",
           video: "VideoF.mov",
           description:
-              "⚡❄️ FILTRED — SÉLECTION PREMIUM ❄️⚡\n\nUne sélection filtrée au profil gourmand, propre et bien travaillé. FILTRED se distingue par une texture souple, une belle intensité aromatique et plusieurs saveurs bien marquées pour varier les plaisirs. 🇲🇦🔥\n\n👃 Saveurs disponibles :\n 🍫 Nutella : profil cacao, noisette et rondeur gourmande\n🌸 Fanta : touche fruitée, sucrée et légèrement pétillante\n\n👅 Goût :\nEn bouche, FILTRED développe une attaque douce et aromatique, avec une belle rondeur selon la saveur choisie. Le profil reste propre, agréable et bien équilibré, avec une finale gourmande qui reste présente. 😮‍💨⚡\n\n✨ Texture & qualité :\n💎 Filtré soigneusement sélectionné\n🤲 Texture souple et facile à travailler\n🌈 Saveurs bien distinctes\n☁️ Fumée douce et parfumée\n🔥 Profil propre, régulier et gourmand\n\n🏆 Le verdict :\nUne sélection filtrée efficace et gourmande, parfaite pour ceux qui aiment choisir entre plusieurs profils aromatiques. FILTRED combine qualité, variété et finition propre dans une gamme simple et bien maîtrisée. ⚡❄️🔥",
+              "⚡❄️ FILTRED — SÉLECTION PREMIUM ❄️⚡\n\nUne sélection filtrée au profil gourmand, propre et bien travaillé. FILTRED se distingue par une texture souple, une belle intensité aromatique et plusieurs saveurs bien marquées pour varier les plaisirs. 🇲🇦🔥\n\n👃 Saveurs disponibles :\n 🌸 Fanta : touche fruitée, sucrée et légèrement pétillante\n\n👅 Goût :\nEn bouche, FILTRED développe une attaque douce et aromatique, avec une belle rondeur selon la saveur choisie. Le profil reste propre, agréable et bien équilibré, avec une finale gourmande qui reste présente. 😮‍💨⚡\n\n✨ Texture & qualité :\n💎 Filtré soigneusement sélectionné\n🤲 Texture souple et facile à travailler\n🌈 Saveurs bien distinctes\n☁️ Fumée douce et parfumée\n🔥 Profil propre, régulier et gourmand\n\n🏆 Le verdict :\nUne sélection filtrée efficace et gourmande, parfaite pour ceux qui aiment choisir entre plusieurs profils aromatiques. FILTRED combine qualité, variété et finition propre dans une gamme simple et bien maîtrisée. ⚡❄️🔥",
           variantTitle: "Saveurs Filtrer ❄️ :",
           jars: [
             /* { name: "Super Caramelo", emoji: "🍮", colorClass: "style-brown" }, */
-            { name: "Nutella", emoji: "🍫", colorClass: "style-red" },
+            /* { name: "Nutella", emoji: "🍫", colorClass: "style-red" }, */
             { name: "Fanta", emoji: "🌸", colorClass: "style-yellow" },
           ],
           tarifs: [
