@@ -224,6 +224,23 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         },
+         {
+                    id: 'BLUE LOBSTER 🦞💙',
+                    flag: '🇲🇦',
+                    name: 'BLUE LOBSTER 🦞💙',
+                    farm: '🌾 WEST COAST MOUSSE',
+                    promoEligible: true,
+                    type: 'JauneUsa',
+                    image: 'ProductBlueL.png', 
+                    video: 'VideoBlueL.mov',
+                    description: 'Une variété lourde qui mélange parfaitement le côté fruité sucré et le gaz puissant typique des grosses génétiques US 🇺🇸🔥\n Le Blue Lobster en jaune mousseux envoie un profil très riche avec une fumée épaisse et ultra savoureuse 😮‍💨💨\n\n 👃 Profil aromatique :\n Dès l’ouverture, t’as une grosse odeur berry sucrée avec des notes crémeuses et un fond bien gassy ⛽️🫐🍬\n Le tout accompagné d’une petite touche marine/funky typique du Blue Lobster qui lui donne une vraie identité premium.\n\n 👅 Goût :\n En bouche c’est hyper gras et intense 🔥\n Tu sens les fruits bleus sucrés, une crème légère et surtout une finition diesel/gaz qui reste collée au palais longtemps 😵‍💫💨\n Très complexe et très propre à la combustion.\n\n 💥 Effets :\n Défonce lourde et euphorique au début avant de laisser place à une relaxation profonde 🧠💥\n Parfait pour les amateurs de produits qui cognent vraiment fort tout en gardant un goût incroyable.\n⭐️ Texture mousseuse premium\n⭐️ Très gros terps US\n⭐️ Fumée épaisse et savoureuse\n⭐️ Effet puissant et longue durée 🦞🔥',
+                    tarifs: [
+                        { weight: '10G', price: 60.00 },
+                        { weight: '20G', price: 100.00 },
+                        { weight: '50G', price: 220.00 },
+                        { weight: '100G', price: 400.00 },
+                    ]
+                },
        /*  {
           id: "ORANGE CREAMPOP 🔥💛",
           flag: "🇺🇸",
@@ -463,24 +480,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '100G', price: 400.00 },
                     ]
                 }, */
-
-         {
-                    id: 'BLUE LOBSTER 🦞💙',
-                    flag: '🇲🇦',
-                    name: 'BLUE LOBSTER 🦞💙',
-                    farm: '🌾 WEST COAST MOUSSE',
-                    promoEligible: true,
-                    type: 'JauneUsa',
-                    image: 'ProductBlueL.png', 
-                    video: 'VideoBlueL.mov',
-                    description: 'Une variété lourde qui mélange parfaitement le côté fruité sucré et le gaz puissant typique des grosses génétiques US 🇺🇸🔥\n Le Blue Lobster en jaune mousseux envoie un profil très riche avec une fumée épaisse et ultra savoureuse 😮‍💨💨\n\n 👃 Profil aromatique :\n Dès l’ouverture, t’as une grosse odeur berry sucrée avec des notes crémeuses et un fond bien gassy ⛽️🫐🍬\n Le tout accompagné d’une petite touche marine/funky typique du Blue Lobster qui lui donne une vraie identité premium.\n\n 👅 Goût :\n En bouche c’est hyper gras et intense 🔥\n Tu sens les fruits bleus sucrés, une crème légère et surtout une finition diesel/gaz qui reste collée au palais longtemps 😵‍💫💨\n Très complexe et très propre à la combustion.\n\n 💥 Effets :\n Défonce lourde et euphorique au début avant de laisser place à une relaxation profonde 🧠💥\n Parfait pour les amateurs de produits qui cognent vraiment fort tout en gardant un goût incroyable.\n⭐️ Texture mousseuse premium\n⭐️ Très gros terps US\n⭐️ Fumée épaisse et savoureuse\n⭐️ Effet puissant et longue durée 🦞🔥',
-                    tarifs: [
-                        { weight: '10G', price: 60.00 },
-                        { weight: '20G', price: 100.00 },
-                        { weight: '50G', price: 220.00 },
-                        { weight: '100G', price: 400.00 },
-                    ]
-                },/*
+/*
                 {
                     id: 'ORANGE CREAMPOP 🔥💛',
                     flag: '🇲🇦',
@@ -1138,6 +1138,40 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategWeed.png", // Ton image de catégorie Weed
 
       products: [
+        {
+                    id: 'Lemon ad',
+                    flag: '🇺🇸',
+                    name: 'Lemon ad 🍋',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductLA.png', 
+                    video: 'VideoLA.mp4',
+                    description:   "🍋✨ LEMON AD — CALI PREMIUM ✨🍋\n\nUne sélection au profil frais, citronné et très aromatique. Lemon Ad se distingue par une belle vivacité, une touche fruitée bien marquée et une finition propre qui rappelle les meilleurs profils lemon modernes. 🇺🇸🔥\n\n👃 Profil aromatique :\n🍋 Citron frais et zesté\n🍬 Touche candy acidulée\n🌿 Fond végétal propre\n🍯 Légère douceur sucrée\n✨ Finition fraîche et parfumée\n\n👅 Goût :\nEn bouche, Lemon Ad développe une attaque vive et citronnée, rapidement équilibrée par une douceur fruitée légère. Le profil reste frais, propre et agréable, avec une finale zestée qui reste bien présente. 😮‍💨🍋\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil lemon expressif\n☁️ Dégustation douce et parfumée\n🔥 Belle fraîcheur aromatique\n🍋 Identité citronnée bien marquée\n\n🏆 Le verdict :\nUne variété parfaite pour ceux qui aiment les profils frais, citronnés et légèrement candy. Lemon Ad combine vivacité, douceur et finition premium dans une sélection très propre. 🍋✨🔥",                    
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
+        {
+                    id: 'Purple',
+                    flag: '🇺🇸',
+                    name: 'Purple 🔮',
+                    farm: '🌾 No Farm 🌾',
+                    promoEligible: true,
+                    type: 'Weed',
+                    image: 'ProductP.png', 
+                    video: 'VideoP.mp4',
+                    description:  "🔮🍇 PURPLE — CALI PREMIUM 🍇🔮\n\nUne sélection au profil fruité, profond et gourmand. Purple se distingue par ses notes de fruits violets, sa rondeur sucrée et une identité douce mais bien marquée, pensée pour les amateurs de profils berry et modernes. 🇺🇸🔥\n\n👃 Profil aromatique :\n🍇 Raisin sucré et fruits violets\n🫐 Notes de baies mûres\n🍬 Touche candy légère\n🍦 Fond doux et légèrement crémeux\n🌿 Finition propre et fruitée\n\n👅 Goût :\nEn bouche, Purple développe une attaque fruitée et sucrée, avec une belle présence de raisin et de fruits rouges. Le profil devient ensuite plus rond et gourmand, avec une finale douce, parfumée et légèrement crémeuse. 😮‍💨🔮\n\n🌿 Qualité & sélection :\n💎 Sélection Cali premium\n✨ Profil fruité bien expressif\n☁️ Dégustation douce et aromatique\n🔥 Belle rondeur en bouche\n🔮 Identité purple reconnaissable\n\n🏆 Le verdict :\nUne variété idéale pour ceux qui aiment les profils fruités, sucrés et berry. Purple combine douceur, gourmandise et finition premium dans une sélection très agréable. 🔮🍇🔥",                    
+                    tarifs: [
+                        { weight: '5g', price: 50.00 },
+                        { weight: '10g', price: 90.00 },
+                        { weight: '25g', price: 200.00 },
+                        { weight: '50g', price: 350.00 },
+                    ]
+                }, 
         {
                     id: 'Super bob',
                     flag: '🇺🇸',
