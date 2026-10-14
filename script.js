@@ -226,7 +226,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
          {
                     id: 'BLUE LOBSTER 🦞💙',
-                    flag: '🇲🇦',
+                    flag: '🇺🇸',
                     name: 'BLUE LOBSTER 🦞💙',
                     farm: '🌾 WEST COAST MOUSSE',
                     promoEligible: true,
