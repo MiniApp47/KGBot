@@ -1297,7 +1297,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 }, 
-        {
+       /*  {
                     id: 'Chantilly cake',
                     flag: '🇺🇸',
                     name: 'Chantilly cake 🎂',
@@ -1313,8 +1313,8 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
-        {
+                },  */
+        /* {
                     id: 'Strawberry',
                     flag: '🇺🇸',
                     name: 'Strawberry 🍓',
@@ -1330,7 +1330,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
         {
                     id: 'Rs11 🏎️',
                     flag: '🇺🇸',
@@ -1365,7 +1365,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 },  */
-        {
+       /*  {
                     id: 'GRAPPE SODA',
                     flag: '🇺🇸',
                     name: 'GRAPPE SODA',
@@ -1381,7 +1381,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
        /*  {
                     id: '🍨🌿 GELATO  🌿🍨',
                     flag: '🇺🇸',
