@@ -235,10 +235,10 @@ document.addEventListener("DOMContentLoaded", function () {
                     video: 'VideoBlueL.mov',
                     description: 'Une variété lourde qui mélange parfaitement le côté fruité sucré et le gaz puissant typique des grosses génétiques US 🇺🇸🔥\n Le Blue Lobster en jaune mousseux envoie un profil très riche avec une fumée épaisse et ultra savoureuse 😮‍💨💨\n\n 👃 Profil aromatique :\n Dès l’ouverture, t’as une grosse odeur berry sucrée avec des notes crémeuses et un fond bien gassy ⛽️🫐🍬\n Le tout accompagné d’une petite touche marine/funky typique du Blue Lobster qui lui donne une vraie identité premium.\n\n 👅 Goût :\n En bouche c’est hyper gras et intense 🔥\n Tu sens les fruits bleus sucrés, une crème légère et surtout une finition diesel/gaz qui reste collée au palais longtemps 😵‍💫💨\n Très complexe et très propre à la combustion.\n\n 💥 Effets :\n Défonce lourde et euphorique au début avant de laisser place à une relaxation profonde 🧠💥\n Parfait pour les amateurs de produits qui cognent vraiment fort tout en gardant un goût incroyable.\n⭐️ Texture mousseuse premium\n⭐️ Très gros terps US\n⭐️ Fumée épaisse et savoureuse\n⭐️ Effet puissant et longue durée 🦞🔥',
                     tarifs: [
-                        { weight: '10G', price: 60.00 },
-                        { weight: '20G', price: 100.00 },
-                        { weight: '50G', price: 220.00 },
-                        { weight: '100G', price: 400.00 },
+            { weight: "9G", price: 50.0 },
+            { weight: "25G", price: 120.0 },
+            { weight: "50G", price: 200.0 },
+            { weight: "100G", price: 350.0 },
                     ]
                 },
        /*  {
