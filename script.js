@@ -2821,6 +2821,23 @@ document.addEventListener("DOMContentLoaded", function () {
                 { weight: "10g", price: 370.0 },
               ],
             },
+            {
+              id: "Fish Scales 🐟",
+              flag: "🇱🇧",
+              name: "Fish Scales 🐟",
+              farm: "🌾 No Farm 🌾",
+              promoEligible: true,
+              type: "Weed",
+              image: "ProductFish.png",
+              video: "VideoFish.mp4",
+              description: "100% de pureter ",
+              tarifs: [
+                { weight: "1g", price: 70.0 },
+                { weight: "2g", price: 130.0 },
+                { weight: "5g", price: 300.0 },
+                { weight: "10g", price: 550.0 },
+              ],
+            },
             /* {
               id: "Fish Scales 🐟",
               flag: "🇱🇧",
