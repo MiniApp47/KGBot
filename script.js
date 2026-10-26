@@ -2906,6 +2906,23 @@ document.addEventListener("DOMContentLoaded", function () {
           badgeText: "",
           products: [
             {
+              id: "Pink Scales 🪸",
+              flag: "🇱🇧",
+              name: "Pink Scales 🪸",
+              farm: "🌾 No Farm 🌾",
+              promoEligible: true,
+              type: "Weed",
+              image: "ProductPink.png",
+              video: "VideoPink.mp4",
+              description: "100% de pureter ",
+              tarifs: [
+                { weight: "1g", price: 80.0 },
+                { weight: "2g", price: 140.0 },
+                { weight: "5g", price: 320.0 },
+                { weight: "10g", price: 600.0 },
+              ],
+            },
+            {
               id: "La Colombienne",
               flag: "🇨🇴",
               name: "La Colombienne 🇨🇴",
