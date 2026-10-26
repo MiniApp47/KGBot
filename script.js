@@ -206,7 +206,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         }, 
-        {
+       /*  {
           id: "Candy Crush 🍭",
           flag: "🇺🇸",
           name: "Candy Crush 🍭",
@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 200.0 },
             { weight: "100G", price: 350.0 },
           ],
-        },
+        }, */
          {
                     id: 'BLUE LOBSTER 🦞💙',
                     flag: '🇺🇸',
@@ -2283,7 +2283,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 420.0 },
           ],
         }, */
-         {
+        /*  {
           id: "FILTRED ⚡",
           flag: "🇲🇦",
           name: "FILTRED ⚡",
@@ -2296,8 +2296,8 @@ document.addEventListener("DOMContentLoaded", function () {
               "⚡❄️ FILTRED — SÉLECTION PREMIUM ❄️⚡\n\nUne sélection filtrée au profil gourmand, propre et bien travaillé. FILTRED se distingue par une texture souple, une belle intensité aromatique et plusieurs saveurs bien marquées pour varier les plaisirs. 🇲🇦🔥\n\n👃 Saveurs disponibles :\n 🌸 Fanta : touche fruitée, sucrée et légèrement pétillante\n\n👅 Goût :\nEn bouche, FILTRED développe une attaque douce et aromatique, avec une belle rondeur selon la saveur choisie. Le profil reste propre, agréable et bien équilibré, avec une finale gourmande qui reste présente. 😮‍💨⚡\n\n✨ Texture & qualité :\n💎 Filtré soigneusement sélectionné\n🤲 Texture souple et facile à travailler\n🌈 Saveurs bien distinctes\n☁️ Fumée douce et parfumée\n🔥 Profil propre, régulier et gourmand\n\n🏆 Le verdict :\nUne sélection filtrée efficace et gourmande, parfaite pour ceux qui aiment choisir entre plusieurs profils aromatiques. FILTRED combine qualité, variété et finition propre dans une gamme simple et bien maîtrisée. ⚡❄️🔥",
           variantTitle: "Saveurs Filtrer ❄️ :",
           jars: [
-            /* { name: "Super Caramelo", emoji: "🍮", colorClass: "style-brown" }, */
-            /* { name: "Nutella", emoji: "🍫", colorClass: "style-red" }, */
+            { name: "Super Caramelo", emoji: "🍮", colorClass: "style-brown" }, 
+            { name: "Nutella", emoji: "🍫", colorClass: "style-red" }, 
             { name: "Fanta", emoji: "🌸", colorClass: "style-yellow" },
           ],
           tarifs: [
@@ -2307,7 +2307,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 250.0 },
             { weight: "100G", price: 400.0 },
           ],
-        },
+        }, */
        /*  {
           id: "DO-SI-DOS",
           flag: "🇲🇦",
