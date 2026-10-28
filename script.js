@@ -188,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         },*/
-        {
+       /*  {
           id: "BISCOTTI 🍪",
           flag: "🇺🇸",
           name: "BISCOTTI 🍪",
@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 200.0 },
             { weight: "100G", price: 350.0 },
           ],
-        }, 
+        },  */
        /*  {
           id: "Candy Crush 🍭",
           flag: "🇺🇸",
@@ -1314,7 +1314,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 }, 
-         {
+       /*   {
                     id: 'La pink',
                     flag: '🇺🇸',
                     name: 'La pink 🩷',
@@ -1330,7 +1330,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
         {
                     id: 'Kim Tech',
                     flag: '🇺🇸',
