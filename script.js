@@ -3001,6 +3001,22 @@ document.addEventListener("DOMContentLoaded", function () {
           badgeText: "",
           products: [
             {
+              id: "Blue",
+              flag: "💎",
+              name: "Blue 💙",
+              farm: "🌾 No Farm 🌾",
+              promoEligible: true,
+              type: "Weed",
+              image: "ProductBL.png",
+              video: "VideoBL.mp4",
+              description: "",
+              tarifs: [
+                { weight: "1", price: 10.0 },
+                { weight: "5", price: 30.0 },
+                { weight: "10", price: 50.0 },
+              ],
+            },
+            /* {
               id: "Rolex 280mg",
               flag: "💎",
               name: "Rolex 280mg ",
@@ -3015,7 +3031,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { weight: "5", price: 30.0 },
                 { weight: "10", price: 50.0 },
               ],
-            },
+            }, */
           ],
         },
         {
