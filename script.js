@@ -1382,7 +1382,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 },  */
-        {
+       /*  {
                     id: 'Super bob',
                     flag: '🇺🇸',
                     name: 'Super bob 🧋',
@@ -1398,7 +1398,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
        /*  {
                     id: 'Chantilly cake',
                     flag: '🇺🇸',
@@ -1433,7 +1433,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '50g', price: 350.00 },
                     ]
                 },  */
-        {
+       /*  {
                     id: 'Rs11 🏎️',
                     flag: '🇺🇸',
                     name: 'Rs11 🏎️',
@@ -1449,7 +1449,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '25g', price: 200.00 },
                         { weight: '50g', price: 350.00 },
                     ]
-                }, 
+                },  */
        /*  {
                     id: 'GAS TRUFFLE ⛽',
                     flag: '🇺🇸',
@@ -2208,6 +2208,44 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "Categ3X.png", // Ton image de catégorie Weed
 
       products: [
+        {
+          id: "général",
+          flag: "🇲🇦",
+          name: "Général 💂",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductGE.jpg",
+          video: "VideoGE.mp4",
+          description:
+                "",
+          tarifs: [
+            { weight: "5G", price: 50.0 },
+            { weight: "10G", price: 80.0 },
+            { weight: "20G", price: 140.0 },
+            { weight: "50G", price: 250.0 },
+            { weight: "100G", price: 400.0 },
+          ],
+        },
+        {
+          id: "Ghost",
+          flag: "🇲🇦",
+          name: "Ghost 👻",
+          farm: "🌾 No Farm 🌾",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductGH.jpg",
+          video: "VideoGH.mp4",
+          description:
+                "",
+          tarifs: [
+            { weight: "5G", price: 50.0 },
+            { weight: "10G", price: 80.0 },
+            { weight: "20G", price: 140.0 },
+            { weight: "50G", price: 250.0 },
+            { weight: "100G", price: 400.0 },
+          ],
+        },
         {
           id: "Bruce banner",
           flag: "🇲🇦",
