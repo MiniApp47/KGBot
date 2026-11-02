@@ -90,9 +90,9 @@ document.addEventListener("DOMContentLoaded", function () {
           tarifs: [{ weight: "10g", price: 70.0 }],
         }, */
         {
-          id: "🧠🍀AMNESIA CORE CUT 🍀🧠",
+          id: "🧠🍀AMNESIA HAZE 🍀🧠",
           flag: "🇳🇱",
-          name: "🧠🍀 AMNESIA CORE CUT 🍀🧠",
+          name: "🧠🍀 AMNESIA HAZE 🍀🧠",
           farm: "🌾 No Farm 🌾",
           promoEligible: true,
           type: "Weed",
