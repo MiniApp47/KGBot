@@ -1835,7 +1835,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "25G", price: 200.0 },
                   ],
         },
-        {
+       /*  {
           id: "Barbara bud",
           flag: "🇺🇸",
           name: "Barbara bud 🎂",
@@ -1851,7 +1851,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "10G", price: 90.0 },
             { weight: "25G", price: 200.0 },
                   ],
-        },
+        }, */
        /*  {
           id: "YellowGaz",
           flag: "🇺🇸",
@@ -2299,7 +2299,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 400.0 },
           ],
         },
-         {
+       /*   {
           id: "Bruce banner",
           flag: "🇲🇦",
           name: "Bruce Banner 🎗",
@@ -2317,7 +2317,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 250.0 },
             { weight: "100G", price: 400.0 },
           ],
-        },
+        }, */
         {
           id: "mango sherbet",
           flag: "🇲🇦",
@@ -3085,13 +3085,13 @@ document.addEventListener("DOMContentLoaded", function () {
           ],
         },
 
-        {
+       /* {
           id: "extasy",
           name: "extasy 🍬",
           image: "",
           badgeText: "",
           products: [
-            {
+            /* {
               id: "Blue",
               flag: "💎",
               name: "Blue 💙",
@@ -3106,7 +3106,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 { weight: "5", price: 30.0 },
                 { weight: "10", price: 50.0 },
               ],
-            },
+            }, */
             /* {
               id: "Rolex 280mg",
               flag: "💎",
@@ -3122,9 +3122,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 { weight: "5", price: 30.0 },
                 { weight: "10", price: 50.0 },
               ],
-            }, */
+            }, 
           ],
-        },
+        },*/
         {
           id: "ketamine",
           name: "ketamine 🔥",
