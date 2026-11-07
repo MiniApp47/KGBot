@@ -170,6 +170,42 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         },
+         {
+          id: "BISCOTTI 🍪",
+          flag: "🇺🇸",
+          name: "BISCOTTI 🍪",
+          farm: "🌾 WEST COAST MOUSSE",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductBisco.jpg",
+          video: "VideoBisco.mp4",
+          description:
+            "🍪🔥 BISCOTTI — WEST COAST MOUSSE 🔥🍪\n\n Une mousse gourmande inspirée des meilleurs profils dessert américains. Biscotti développe un mélange riche de biscuit sucré, de crème vanillée et de notes légèrement épicées, accompagné d’un fond kush et gazeux qui lui apporte beaucoup de caractère. 🇺🇸💎\n\n 👃 Profil aromatique :\n 🍪 Biscuit chaud et pâte sucrée\n 🍦 Vanille et crème douce\n 🌰 Amande et noisette grillée\n 🌶️ Légères notes épicées\n ⛽ Fond kush et gazeux\n\n 👅 Goût :\n En bouche, l’attaque rappelle un biscuit tout juste sorti du four, avec des notes de vanille, de caramel et de fruits à coque. Le profil devient ensuite plus profond et légèrement épicé, avant une finale kush et gassy qui reste longtemps sur le palais. 😮‍💨🍪\n\n 💛 Texture & qualité :\n ☁️ Mousseuse et souple\n 🤲 Facile à effriter\n ✨ Profil gourmand très marqué\n 🔥 Fumée dense et crémeuse\n 💎 Finition premium West Coast\n\n 🏆 Le verdict :\n Biscotti est une valeur sûre pour les amateurs de profils pâtissiers, crémeux et gazeux. Une mousse riche et réconfortante avec une véritable identité Cali dessert. 🍪🍦⛽🔥",
+          tarifs: [
+            { weight: "9G", price: 50.0 },
+            { weight: "25G", price: 120.0 },
+            { weight: "50G", price: 200.0 },
+            { weight: "100G", price: 350.0 },
+          ],
+        },  
+         {
+          id: "Candy Crush 🍭",
+          flag: "🇺🇸",
+          name: "Candy Crush 🍭",
+          farm: "🌾 WEST COAST MOUSSE",
+          promoEligible: true,
+          type: "3xFiltre",
+          image: "ProductUsa3.jpg",
+          video: "VideoCCH.mp4",
+          description:
+            "🇺🇸 DRY SIFT PREMIUM • UPGRADE AROMATIQUE & PUISSANCE 🇺🇸 \n\n Le Mousseux Made in Los Angeles monte en gamme. Ce nouveau batch bénéficie d'une technique \"Dry Sift\" optimisée : le goût Cali est beaucoup plus prononcé et la défonce frappe nettement plus fort que l'ancienne version. \n\n  🍭 Candy Land : Euphorie percutante, profil ultra-sucré candy. \n\n 🍯 Texture : Jaune mousseux d’exception qui s'effrite tout seul. Une frappe exclusive introuvable ailleurs. 🥵😱🍫",
+          tarifs: [
+            { weight: "9G", price: 50.0 },
+            { weight: "25G", price: 120.0 },
+            { weight: "50G", price: 200.0 },
+            { weight: "100G", price: 350.0 },
+          ],
+        },
        /*  {
           id: "Pink Lemonade 🥤",
           flag: "🇺🇸",
@@ -224,7 +260,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "100G", price: 350.0 },
           ],
         }, */
-         {
+        /*  {
                     id: 'BLUE LOBSTER 🦞💙',
                     flag: '🇺🇸',
                     name: 'BLUE LOBSTER 🦞💙',
@@ -240,7 +276,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { weight: "50G", price: 200.0 },
             { weight: "100G", price: 350.0 },
                     ]
-                },
+                }, */
        /*  {
           id: "ORANGE CREAMPOP 🔥💛",
           flag: "🇺🇸",
@@ -299,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
           ],
         }, */
-        {
+       /*  {
           id: "CHERRY PIE",
           flag: "🇺🇸",
           name: "CHERRY PIE 🥧",
@@ -386,7 +422,7 @@ document.addEventListener("DOMContentLoaded", function () {
               price: 350.0            },
 
           ],
-        },
+        }, */
         /* {
                     id: '🤯🚀 PERMANENT MARKER',
                     flag: '🇺🇸',
