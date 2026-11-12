@@ -544,7 +544,21 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "CategDouble.png", // Ton image de catégorie Weed
 
       products: [
-                
+                      {
+  id: 'Olive Double Static 🫒',
+  flag: '🇲🇦',
+  name: 'Olive Double Static 🫒',
+  farm: "🌾 No Farm 🌾",
+  promoEligible: true,
+  type: 'STATIC',
+  image: 'ProductODS.png',
+  video: 'VideoODS.mp4',
+  description:
+    "🫒🧤 OLIVE DOUBLE STATIC — PREMIUM 🧤🫒\n\nUne sélection Double Static au format olive, inspirée du savoir-faire marocain et de l'univers des résines haut de gamme. Olive Double Static évoque une identité aromatique profonde et raffinée, mêlant notes boisées, douceur gourmande et caractère résineux. 🇲🇦💎✨\n\n👃 Profil aromatique :\n🍯 Notes douces et légèrement miellées\n🌰 Nuances de noisette et fruits à coque\n🍫 Touches chocolatées gourmandes\n🌿 Fond végétal et résineux\n🪵 Accents boisés et terreux\n🔥 Finition aromatique profonde\n\n🌈 Signature aromatique :\nUn profil imaginé autour d'une ouverture douce et gourmande, associant miel, noisette et nuances chocolatées. Des notes boisées et résineuses viennent compléter cette composition, rappelant les profils traditionnels marocains. 🫒🍯\n\n🧤 Texture & présentation :\n💎 Catégorie Double Static\n🫒 Format olive original\n🇲🇦 Inspiration marocaine\n🌿 Univers résineux et authentique\n✨ Présentation soignée\n👑 Identité premium et raffinée\n\n🏆 Le verdict :\nUne identité élégante et pleine de caractère, qui associe douceur miellée, nuances boisées et profondeur résineuse. Olive Double Static se distingue par son format original et son inspiration marocaine traditionnelle. 🫒🧤🇲🇦💎",
+  tarifs: [
+    { weight: '1 olive', price: 100.00 },
+  ]
+},
 {
   id: 'Orangemandarina',
   flag: '🇲🇦',
@@ -632,24 +646,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { weight: '1 olive', price: 110.00 },
                     ]
                 },
-       /*  {
-                    id: '🌟 CALYPSO',
-                    flag: '🇲🇦',
-                    name: '🌟 CALYPSO',
-                    farm: 'MOZART FARM 🎹',
-                    promoEligible: true,
-                    type: 'STATIC',
-                    image: 'ProductMZ.png', // ⚠️ A changer
-                    video: 'VideoMZ.mov',
-                    description: '🔥 Description\n Le static Calypso signé MOZART FARM, c’est clairement du très haut niveau — une extraction propre, raffinée, où chaque détail est maîtrisé. On est sur un produit ultra clean, avec une texture sablonneuse fine, presque soyeuse, qui témoigne d’un tri précis et d’une qualité de résine exceptionnelle.\n\n 👃 Arômes & Saveurs\n Calypso, ça part sur un profil exotique et lumineux : des notes fruitées tropicales bien fraîches, mélangées à une touche sucrée presque creamy, avec derrière un léger fond gazeux qui vient équilibrer le tout. À la chauffe, ça développe encore plus — c’est riche, doux, et surtout hyper savoureux, sans agressivité.\n\n 👀 Aspect\n Couleur claire à dorée, homogène, avec cette texture “static” bien sèche mais collante juste comme il faut. Ça s’effrite parfaitement, signe d’une extraction premium et bien travaillée.\n\n 😮‍💨 Effet\n Un high propre et progressif : ça démarre avec une montée cérébrale légère, euphorique, puis ça pose tranquillement le corps sans t’écraser. Idéal pour rester fonctionnel tout en profitant d’un vrai moment de détente qualitative.\n\n 💎 Conclusion\n Le Calypso en static de chez MOZART FARM, c’est un produit d’esthète — goût précis, effet maîtrisé, et finition premium. Clairement une pièce de collection pour ceux qui cherchent du clean et du goût au-dessus de la moyenne.',
-                    tarifs: [
-                        { weight: '5G', price: 70.00 },
-                        { weight: '10G', price: 130.00},
-                        { weight: '25G', price: 300.00 },
-                        { weight: '50G', price: 450.00},
-                        { weight: '100G', price: 800.00}
-                    ]
-                }, */
+    
          {
           id: "Plasma static",
           flag: "🇺🇸",
